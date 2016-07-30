@@ -1,0 +1,4061 @@
+{
+  "name":"topLevel",
+  "value":500,
+  "children": [
+    {
+      "id": 12345,
+      "value": 5000,
+      "color": "filler"
+    },
+    {
+      "id": 0,
+      "value": 5,
+      "color": "architect",
+      "name": "Kyle Richard",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 2,
+      "value": 5,
+      "color": "architect",
+      "name": "Robert Titus",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 4,
+      "value": 5,
+      "color": "architect",
+      "name": "Daniel Pryor",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 6,
+      "value": 5,
+      "color": "interiors",
+      "name": "Mary Zambello",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 8,
+      "value": 5,
+      "color": "architect",
+      "name": "Jeanette Pastrana",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 10,
+      "value": 5,
+      "color": "landscape",
+      "name": "Philip Dugdale",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 12,
+      "value": 5,
+      "color": "architect",
+      "name": "Nathan Butt",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 14,
+      "value": 5,
+      "color": "architect",
+      "name": "Sarah Dunbar",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 16,
+      "value": 5,
+      "color": "interiors",
+      "name": "Jessica Harrington",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 18,
+      "value": 5,
+      "color": "landscape",
+      "name": "Steven Walz",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 19,
+      "value": 5,
+      "color": "architect",
+      "name": "Robert Genova",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 20,
+      "value": 5,
+      "color": "architect",
+      "name": "Christopher Hardy",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 22,
+      "value": 5,
+      "color": "architect",
+      "name": "Jhanea Williams",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 24,
+      "value": 5,
+      "color": "interiors",
+      "name": "Jingwen Shi",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 26,
+      "value": 5,
+      "color": "architect",
+      "name": "Natalie Klinck",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 27,
+      "value": 5,
+      "color": "architect",
+      "name": "Lynn Hsu",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 29,
+      "value": 5,
+      "color": "landscape",
+      "name": "Xue Zhou",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 31,
+      "value": 5,
+      "color": "architect",
+      "name": "James Moses",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 32,
+      "value": 5,
+      "color": "interiors",
+      "name": "Cecilia Hardy",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 33,
+      "value": 5,
+      "color": "landscape",
+      "name": "Diana Fernandez",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 35,
+      "value": 5,
+      "color": "architect",
+      "name": "Jerolim Mladinov",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 36,
+      "value": 5,
+      "color": "architect",
+      "name": "Emily Parris",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 38,
+      "value": 5,
+      "color": "architect",
+      "name": "Jeffrey Benea",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 39,
+      "value": 5,
+      "color": "architect",
+      "name": "Matthew Petrie",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 40,
+      "value": 5,
+      "color": "architect",
+      "name": "Gerard Gutierrez",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 42,
+      "value": 5,
+      "color": "operations",
+      "name": "Ethan Shrier",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 44,
+      "value": 5,
+      "color": "architect",
+      "name": "Nicole Kleman",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 46,
+      "value": 5,
+      "color": "operations",
+      "name": "Osazemen Ehigiator",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 48,
+      "value": 5,
+      "color": "operations",
+      "name": "Tyler Chase",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 49,
+      "value": 5,
+      "color": "operations",
+      "name": "Zachary Loudin",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 51,
+      "value": 5,
+      "color": "operations",
+      "name": "Matthew Arielly",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 52,
+      "value": 5,
+      "color": "architect",
+      "name": "Edward Calamari",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 54,
+      "value": 5,
+      "color": "operations",
+      "name": "John Campbell",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 55,
+      "value": 5,
+      "color": "operations",
+      "name": "Betty Davidian-Sleiman",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 57,
+      "value": 5,
+      "color": "operations",
+      "name": "Bomin Kim",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 59,
+      "value": 5,
+      "color": "operations",
+      "name": "Adde Morgan",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 60,
+      "value": 5,
+      "color": "operations",
+      "name": "Joanna Chow",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 61,
+      "value": 5,
+      "color": "interiors",
+      "name": "Gina Mosca",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 62,
+      "value": 5,
+      "color": "landscape",
+      "name": "Sara Cohen",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 63,
+      "value": 5,
+      "color": "operations",
+      "name": "Stephanie Izzicupo",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 64,
+      "value": 5,
+      "color": "architect",
+      "name": "Rosa Herrero De Andres",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 66,
+      "value": 5,
+      "color": "landscape",
+      "name": "Ian Scherling",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 67,
+      "value": 5,
+      "color": "operations",
+      "name": "Shaun Doherty",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 68,
+      "value": 5,
+      "color": "architect",
+      "name": "Youngjin Lee",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 69,
+      "value": 5,
+      "color": "operations",
+      "name": "Chunnan Li",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 70,
+      "value": 5,
+      "color": "operations",
+      "name": "Sarah Laliberte",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 71,
+      "value": 5,
+      "color": "architect",
+      "name": "Seth Clarke",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 73,
+      "value": 5,
+      "color": "architect",
+      "name": "Yifaat Ayzenberg-Shoshan",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 75,
+      "value": 5,
+      "color": "interiors",
+      "name": "Colleen Barrett",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 77,
+      "value": 5,
+      "color": "operations",
+      "name": "Laura Pitone",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 78,
+      "value": 5,
+      "color": "operations",
+      "name": "Shu Yang",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 79,
+      "value": 5,
+      "color": "operations",
+      "name": "Jay Nothoff",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 80,
+      "value": 5,
+      "color": "interiors",
+      "name": "Julie Jaenicke",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 82,
+      "value": 5,
+      "color": "architect",
+      "name": "Shaelena Morley",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 83,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Sejal Agrawal",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 85,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Lan Ge",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 87,
+      "value": 5,
+      "color": "operations",
+      "name": "Brigitte Beltran",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 89,
+      "value": 5,
+      "color": "planner",
+      "name": "Alexandra Toteva",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 91,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Victor Eskinazi",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 93,
+      "value": 5,
+      "color": "architect",
+      "name": "David Martin",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 95,
+      "value": 5,
+      "color": "architect",
+      "name": "Mengyao Yu",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 96,
+      "value": 5,
+      "color": "interiors",
+      "name": "Jefferson Hawkins",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 98,
+      "value": 5,
+      "color": "planner",
+      "name": "Marissa Cheng",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 99,
+      "value": 5,
+      "color": "planner",
+      "name": "Christopher Horne",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 101,
+      "value": 5,
+      "color": "planner",
+      "name": "Bradley Barnett",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 103,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Einat Rosenkrantz",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 105,
+      "value": 5,
+      "color": "interiors",
+      "name": "Sijia Yu",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 107,
+      "value": 5,
+      "color": "architect",
+      "name": "Nancy Freedman",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 108,
+      "value": 5,
+      "color": "landscape",
+      "name": "Nuith Morales Salgado",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 110,
+      "value": 5,
+      "color": "architect",
+      "name": "Brendan Rogers",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 111,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Youngju Cho",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 113,
+      "value": 5,
+      "color": "landscape",
+      "name": "Benjamin Boisclair",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 115,
+      "value": 5,
+      "color": "civil",
+      "name": "Matthew Reese",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 116,
+      "value": 5,
+      "color": "landscape",
+      "name": "Muhan Cui",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 118,
+      "value": 5,
+      "color": "landscape",
+      "name": "PONNAPA PRAKKAMAKUL",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 119,
+      "value": 5,
+      "color": "architect",
+      "name": "Catherine Barsoum",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 120,
+      "value": 5,
+      "color": "landscape",
+      "name": "Yuting Jiang",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 122,
+      "value": 5,
+      "color": "architect",
+      "name": "Christopher Winkler",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 123,
+      "value": 5,
+      "color": "architect",
+      "name": "Daniel Dwyer",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 125,
+      "value": 5,
+      "color": "planner",
+      "name": "Rhiannon Sinclair",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 126,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Chanwoo Kim",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 129,
+      "value": 5,
+      "color": "architect",
+      "name": "Zhengyang Wang",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 131,
+      "value": 5,
+      "color": "planner",
+      "name": "Elangovan Govindan",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 133,
+      "value": 5,
+      "color": "architect",
+      "name": "Antonio Furukawa",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 135,
+      "value": 5,
+      "color": "architect",
+      "name": "Benjamin Kou",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 137,
+      "value": 5,
+      "color": "operations",
+      "name": "Melanie Loria",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 138,
+      "value": 5,
+      "color": "architect",
+      "name": "Stephen Lacker",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 139,
+      "value": 5,
+      "color": "planner",
+      "name": "Yueying Cui",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 140,
+      "value": 5,
+      "color": "landscape",
+      "name": "Christopher Myers",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 142,
+      "value": 5,
+      "color": "operations",
+      "name": "David Appel",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 143,
+      "value": 5,
+      "color": "architect",
+      "name": "Victoria Steven",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 144,
+      "value": 5,
+      "color": "architect",
+      "name": "Colin Booth",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 146,
+      "value": 5,
+      "color": "architect",
+      "name": "Katelyn Mayfield",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 148,
+      "value": 5,
+      "color": "architect",
+      "name": "Kevin Lee",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 150,
+      "value": 5,
+      "color": "landscape",
+      "name": "Matthew Langan",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 152,
+      "value": 5,
+      "color": "landscape",
+      "name": "Nicholas Steinkraus",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 154,
+      "value": 5,
+      "color": "architect",
+      "name": "Marta Guerra",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 156,
+      "value": 5,
+      "color": "operations",
+      "name": "Philip Barash",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 157,
+      "value": 5,
+      "color": "architect",
+      "name": "Carolyn Brown",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 159,
+      "value": 5,
+      "color": "landscape",
+      "name": "Yisi Liu",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 160,
+      "value": 5,
+      "color": "landscape",
+      "name": "Lin Ye",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 162,
+      "value": 5,
+      "color": "landscape",
+      "name": "George Koumoutsos",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 165,
+      "value": 5,
+      "color": "landscape",
+      "name": "Katherine Tooke",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 167,
+      "value": 5,
+      "color": "operations",
+      "name": "Doug Larence",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 168,
+      "value": 5,
+      "color": "planner",
+      "name": "Theresa O'Neil",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 171,
+      "value": 5,
+      "color": "architect",
+      "name": "Meredith Mccarthy",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 175,
+      "value": 5,
+      "color": "landscape",
+      "name": "Ashley Pelletier",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 178,
+      "value": 5,
+      "color": "architect",
+      "name": "S. Fiske Crowell",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 179,
+      "value": 5,
+      "color": "landscape",
+      "name": "Binbin Ma",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 180,
+      "value": 5,
+      "color": "landscape",
+      "name": "Matthew Macchietto",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 182,
+      "value": 5,
+      "color": "landscape",
+      "name": "Travis Mazerall",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 183,
+      "value": 5,
+      "color": "landscape",
+      "name": "Tao Zhang",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 184,
+      "value": 5,
+      "color": "planner",
+      "name": "Patrick Murray",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 187,
+      "value": 5,
+      "color": "architect",
+      "name": "Maria Donovan",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 188,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Christopher Freda",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 189,
+      "value": 5,
+      "color": "graphics",
+      "name": "Jessica Grant",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 192,
+      "value": 5,
+      "color": "landscape",
+      "name": "Yifei Wang",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 194,
+      "value": 5,
+      "color": "landscape",
+      "name": "Jason Hellendrung",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 195,
+      "value": 5,
+      "color": "landscape",
+      "name": "Zi Gu",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 196,
+      "value": 5,
+      "color": "urban designer",
+      "name": "John Sugrue",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 198,
+      "value": 5,
+      "color": "architect",
+      "name": "Richard Colavecchio",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 199,
+      "value": 5,
+      "color": "operations",
+      "name": "Aliza Leventhal",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 200,
+      "value": 5,
+      "color": "landscape",
+      "name": "Letitia Tormay",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 201,
+      "value": 5,
+      "color": "landscape",
+      "name": "Eamonn Hutton",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 203,
+      "value": 5,
+      "color": "planner",
+      "name": "Julia Carlton",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 204,
+      "value": 5,
+      "color": "architect",
+      "name": "Bradford Prestbo",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 209,
+      "value": 5,
+      "color": "architect",
+      "name": "Justin Finnicum",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 211,
+      "value": 5,
+      "color": "architect",
+      "name": "Carla Ceruzzi",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 212,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Siqi Zhu",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 213,
+      "value": 5,
+      "color": "landscape",
+      "name": "Neil Dean",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 215,
+      "value": 5,
+      "color": "civil",
+      "name": "Hannah Foley",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 216,
+      "value": 5,
+      "color": "architect",
+      "name": "Yichen An",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 218,
+      "value": 5,
+      "color": "landscape",
+      "name": "Rex Tseng",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 220,
+      "value": 5,
+      "color": "interiors",
+      "name": "Eric Lambiaso",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 221,
+      "value": 5,
+      "color": "landscape",
+      "name": "Mauricio Gomez",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 222,
+      "value": 5,
+      "color": "planner",
+      "name": "Caitlyn Clauson",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 223,
+      "value": 5,
+      "color": "civil",
+      "name": "Kevin Hebard",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 224,
+      "value": 5,
+      "color": "landscape",
+      "name": "Susannah Ross",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 226,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Andrew Leungchaikul",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 229,
+      "value": 5,
+      "color": "landscape",
+      "name": "Yi-Ting Chou",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 231,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Difei Xu",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 232,
+      "value": 5,
+      "color": "planner",
+      "name": "Kenneth Goulding",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 235,
+      "value": 5,
+      "color": "architect",
+      "name": "Marta Lucila Rosso",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 238,
+      "value": 5,
+      "color": "architect",
+      "name": "Jose Compres",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 239,
+      "value": 5,
+      "color": "landscape",
+      "name": "Shuai Hao",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 240,
+      "value": 5,
+      "color": "interiors",
+      "name": "Kathryn Boudreau",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 243,
+      "value": 5,
+      "color": "operations",
+      "name": "Allison Eaton",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 244,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Romil Sheth",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 245,
+      "value": 5,
+      "color": "civil",
+      "name": "Zachary Chrisco",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 246,
+      "value": 5,
+      "color": "architect",
+      "name": "Illaria Giardiello",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 247,
+      "value": 5,
+      "color": "interiors",
+      "name": "Jennifer Imbaro",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 250,
+      "value": 5,
+      "color": "landscape",
+      "name": "Radhika Mahan",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 251,
+      "value": 5,
+      "color": "planner",
+      "name": "Jill Allen Dixon",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 254,
+      "value": 5,
+      "color": "interiors",
+      "name": "Christiana Linera",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 255,
+      "value": 5,
+      "color": "landscape",
+      "name": "Ming - Jen Hsueh",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 256,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Mary Anne Ocampo",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 257,
+      "value": 5,
+      "color": "architect",
+      "name": "Pablo Savid-Buteler",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 258,
+      "value": 5,
+      "color": "landscape",
+      "name": "Joseph Hibbard",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 259,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Paul Schlapobersky",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 261,
+      "value": 5,
+      "color": "civil",
+      "name": "William Sasser",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 263,
+      "value": 5,
+      "color": "landscape",
+      "name": "Zhicheng Xu",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 264,
+      "value": 5,
+      "color": "landscape",
+      "name": "Veerachai Petchthevee",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 266,
+      "value": 5,
+      "color": "architect",
+      "name": "Lan Ying Ip",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 268,
+      "value": 5,
+      "color": "landscape",
+      "name": "Joel Smith",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 269,
+      "value": 5,
+      "color": "architect",
+      "name": "Allison Austin",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 270,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Barbara Heller",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 272,
+      "value": 5,
+      "color": "architect",
+      "name": "Christopher Sgarzi",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 273,
+      "value": 5,
+      "color": "landscape",
+      "name": "Laura Marett",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 274,
+      "value": 5,
+      "color": "planner",
+      "name": "Gretchen Keillor",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 275,
+      "value": 5,
+      "color": "operations",
+      "name": "Lachlan Hunter Hicks",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 277,
+      "value": 5,
+      "color": "operations",
+      "name": "Kayla Bosela",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 284,
+      "value": 5,
+      "color": "planner",
+      "name": "Tyler Patrick",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 287,
+      "value": 5,
+      "color": "architect",
+      "name": "Christine Dunn",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 289,
+      "value": 5,
+      "color": "architect",
+      "name": "Thomas Simister",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 291,
+      "value": 5,
+      "color": "landscape",
+      "name": "Peter Emerson",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 295,
+      "value": 5,
+      "color": "planner",
+      "name": "Andrew McClurg",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 297,
+      "value": 5,
+      "color": "graphics",
+      "name": "Ryan Collier",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 298,
+      "value": 5,
+      "color": "architect",
+      "name": "William Massey",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 299,
+      "value": 5,
+      "color": "operations",
+      "name": "Sophie Elias",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 300,
+      "value": 5,
+      "color": "operations",
+      "name": "Jose Miranda",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 301,
+      "value": 5,
+      "color": "landscape",
+      "name": "Caroline Braga",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 304,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Martin Zogran",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 306,
+      "value": 5,
+      "color": "civil",
+      "name": "Steven Engler",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 307,
+      "value": 5,
+      "color": "operations",
+      "name": "Hillary Chase",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 308,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Isabella Frontado",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 311,
+      "value": 5,
+      "color": "planner",
+      "name": "Thiyagarajan Adi Raman",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 312,
+      "value": 5,
+      "color": "landscape",
+      "name": "Dou Zhang",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 313,
+      "value": 5,
+      "color": "planner",
+      "name": "Phillip Bruso",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 314,
+      "value": 5,
+      "color": "planner",
+      "name": "Briana Hensold",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 315,
+      "value": 5,
+      "color": "architect",
+      "name": "Eva Valdecantos",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 316,
+      "value": 5,
+      "color": "architect",
+      "name": "Vinicius Gorgati",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 317,
+      "value": 5,
+      "color": "landscape",
+      "name": "Michael Grove",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 322,
+      "value": 5,
+      "color": "planner",
+      "name": "Stephen Kun",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 324,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Dennis Pieprz",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 325,
+      "value": 5,
+      "color": "planner",
+      "name": "Greg Havens",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 326,
+      "value": 5,
+      "color": "operations",
+      "name": "Samuel Lee",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 328,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Zhao Liang",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 331,
+      "value": 5,
+      "color": "operations",
+      "name": "Alejandro Pina - Troncoso",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 335,
+      "value": 5,
+      "color": "planner",
+      "name": "Justin Fay",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 337,
+      "value": 5,
+      "color": "architect",
+      "name": "Ivelisse Otero",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 339,
+      "value": 5,
+      "color": "landscape",
+      "name": "Cassandra Bosco",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 340,
+      "value": 5,
+      "color": "architect",
+      "name": "Bryan Irwin",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 343,
+      "value": 5,
+      "color": "operations",
+      "name": "Kathleen Hunt",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 348,
+      "value": 5,
+      "color": "planner",
+      "name": "Frederick Merrill, Jr.",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 351,
+      "value": 5,
+      "color": "planner",
+      "name": "Margit Liander",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 354,
+      "value": 5,
+      "color": "architect",
+      "name": "Katia Lucic",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 361,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Hernan Schlosman",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 365,
+      "value": 5,
+      "color": "landscape",
+      "name": "Xiaoran Du",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 366,
+      "value": 5,
+      "color": "interiors",
+      "name": "Victor Vizgaitis",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 372,
+      "value": 5,
+      "color": "planner",
+      "name": "Selin Alpogan Arslan",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 375,
+      "value": 5,
+      "color": "landscape",
+      "name": "Anthony Fettes",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 380,
+      "value": 5,
+      "color": "architect",
+      "name": "Anthony Lawson",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 382,
+      "value": 5,
+      "color": "architect",
+      "name": "Jingyue Wu",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 384,
+      "value": 5,
+      "color": "urban designer",
+      "name": "Alan Ward",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 385,
+      "value": 5,
+      "color": "operations",
+      "name": "Mariam Nalbandyan",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 386,
+      "value": 5,
+      "color": "architect",
+      "name": "Marley Wright-Kanda",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 389,
+      "value": 5,
+      "color": "graphics",
+      "name": "Samuel Pease",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 391,
+      "value": 5,
+      "color": "landscape",
+      "name": "Gina Ford",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 393,
+      "value": 5,
+      "color": "architect",
+      "name": "Lucca Townsend",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 397,
+      "value": 5,
+      "color": "landscape",
+      "name": "Isabel Zempel",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 409,
+      "value": 5,
+      "color": "graphics",
+      "name": "Mingshan Shao",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 413,
+      "value": 5,
+      "color": "graphics",
+      "name": "Theresa Dube",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 414,
+      "value": 5,
+      "color": "landscape",
+      "name": "Mark Dawson",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 436,
+      "value": 5,
+      "color": "planner",
+      "name": "James Miner",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    },
+    {
+      "id": 512,
+      "value": 5,
+      "color": "operations",
+      "name": "Anna Scherling",
+      "strategies": {
+        "full": "no",
+        "half": "no",
+        "visualization": "no",
+        "technology": "no"
+      },
+      "sustainability": {
+        "full": "no",
+        "half": "no",
+        "water": "no",
+        "energy": "no"
+      }
+    }
+  ]
+}
