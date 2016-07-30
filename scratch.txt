@@ -1,0 +1,20 @@
+start with user name
+start with 3 lives
+start with 10 rooms
+??need high scores
+after each try
+    -if correct
+        -stopwatch time is logged
+        -stopwatch time is added to tally
+        -number of rooms is decremented
+        -new room is generated
+    -if incorrect
+        -number of lives is decremented
+        -if number of lives is less than 1
+            -tally is logged and compared to high scores
+            -if high score is reached
+                -congrats message and name on big board
+                -add victory message
+            -if no high score
+                -game over screen
+                    -option to play again
