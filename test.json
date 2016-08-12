@@ -1,0 +1,174 @@
+{"name": "topLevel",
+  "value": 500,
+  "radius": 5,
+  "children": [
+    {
+      "id": 44,
+      "radius": 5,
+      "value": 5,
+      "level": "associate",
+      "studio": "campus",
+      "floor": 1,
+      "color": "architect",
+      "name": "Nicole Kleman",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "radius": 5,
+      "value": 5,
+      "level": "associate",
+      "studio": "urban",
+      "floor": 1,
+      "color": "operations",
+      "name": "Osazemen Ehigiator",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "radius": 5,
+      "value": 5,
+      "level": "associate",
+      "studio": "campus",
+      "floor": 1,
+      "color": "operations",
+      "name": "Tyler Chase",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "radius": 5,
+      "value": 5,
+      "level": "associate",
+      "studio": "campus",
+      "floor": 1,
+      "color": "operations",
+      "name": "Zachary Loudin",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "radius": 5,
+      "value": 5,
+      "level": "associate",
+      "studio": "campus",
+      "floor": 1,
+      "color": "architect",
+      "name": "Kyle Richard",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "radius": 5,
+      "value": 5,
+      "level": "associate",
+      "studio": "campus",
+      "floor": 1,
+      "color": "architect",
+      "name": "Robert Titus",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "radius": 5,
+      "value": 5,
+      "level": "associate",
+      "studio": "campus",
+      "floor": 1,
+      "color": "architect",
+      "name": "Daniel Pryor",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "radius": 5,
+      "value": 5,
+      "level": "associate",
+      "studio": "campus",
+      "floor": 1,
+      "color": "interiors",
+      "name": "Mary Zambello",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,56 +1,2794 @@
 {
-  "name": "Max",
-  "value": 100,
-  "children": [
+  "nodes": [
     {
-      "name": "sylvia",
-      "value": 75,
-      "children": [
-        {
-          "name": "Craig",
-          "value": 25
-        },
-        {
-          "name": "Robin",
-          "value": 25
-        },
-        {
-          "name": "Anna",
-          "value": 25
-        }
-      ]
+      "email": "bkou@sasaki.com",
+      "first_name": "Ben",
+      "last_name": "Kou",
+      "office_phone": "617.923.7112",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architecture",
+      "people_id": "5ccfe881-acb5-4b45-85ae-e25e911840b0"
     },
     {
-      "name": "David",
-      "value": 75,
-      "children": [
-        {
-          "name": "Sal",
-          "value": 25
-        },
-        {
-          "name": "Ben",
-          "value": 25
-        }
-      ]
+      "email": "slee@sasaki.com",
+      "first_name": "Springman",
+      "last_name": "Lee",
+      "office_phone": "617.923.5308",
+      "org_title": "Senior Associate",
+      "department": "Corporate",
+      "colorGroup": "Network Operations Manager",
+      "people_id": "e3b9993c-017b-4486-8c43-ea24a51e3171"
     },
     {
-      "name": "andy",
-      "value": 75,
-      "children": [
-        {
-          "name": "ann",
-          "value": 25
-        },
-        {
-          "name": "cal",
-          "value": 25
-        },
-        {
-          "name": "brad",
-          "value": 25
-        }
-      ]
+      "email": "ycui@sasaki.com",
+      "first_name": "Yueying",
+      "last_name": "Cui",
+      "office_phone": "617.923.5336",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Computer Programmer",
+      "people_id": "efbffebc-50ad-48fc-805e-c4ff3bfeb3bc"
+    },
+    {
+      "email": "cahardy@sasaki.com",
+      "first_name": "Chris",
+      "last_name": "Hardy",
+      "office_phone": "617.923.7134",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "29dd5897-894f-4fa9-943d-c2d1a4b74586"
+    },
+    {
+      "email": "mcui@sasaki.com",
+      "first_name": "Muhan",
+      "last_name": "Cui",
+      "office_phone": "617.923.7159",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "8a4d28e9-5a41-41e5-9379-e92b2e3c1074"
+    },
+    {
+      "email": "apina@sasaki.com",
+      "first_name": "Alex",
+      "last_name": "Pina",
+      "office_phone": "617.923.7308",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Help Desk Analyst",
+      "people_id": "07966092-ebf3-49bc-b06e-adf47f68cc98"
+    },
+    {
+      "email": "kmayfield@sasaki.com",
+      "first_name": "Katelyn",
+      "last_name": "Mayfield",
+      "office_phone": "617.923.7181",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "aa6d62ab-852f-442a-8f03-17b8f865e64b"
+    },
+    {
+      "email": "bprestbo@sasaki.com",
+      "first_name": "Brad",
+      "last_name": "Prestbo",
+      "office_phone": "617.923.7325",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "595ec8e1-c536-4e79-b64a-5a417f01e040"
+    },
+    {
+      "email": "gfeng@sasaki.com",
+      "first_name": "Ge",
+      "last_name": "Feng",
+      "office_phone": "617.923.7217",
+      "org_title": "Professional Staff",
+      "department": "",
+      "colorGroup": "Graphic Designer",
+      "people_id": "6b80a42f-b7cb-4892-b38c-c618df1fbfa9"
+    },
+    {
+      "email": "dlarence@sasaki.com",
+      "first_name": "Doug",
+      "last_name": "Larence",
+      "office_phone": "617.923.5306",
+      "org_title": "Senior Associate",
+      "department": "Corporate",
+      "colorGroup": "Director of Marketing",
+      "people_id": "d4126cd6-c476-4911-9e80-fd3cb10e9023"
+    },
+    {
+      "email": "tsimister@sasaki.com",
+      "first_name": "Thomas",
+      "last_name": "Simister",
+      "office_phone": "617.923.7259",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "a8e74694-1410-46cd-a293-4ad525e0ca95"
+    },
+    {
+      "email": "ischerling@sasaki.com",
+      "first_name": "Ian",
+      "last_name": "Scherling",
+      "office_phone": "617.923.7158",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Landscape Architect",
+      "people_id": "ce4871d7-f9a7-4521-aabd-65b9674e006b"
+    },
+    {
+      "email": "elaysleeper@sasaki.com",
+      "first_name": "Ethan",
+      "last_name": "Lay-Sleeper",
+      "office_phone": "617.923.7140",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Planner",
+      "people_id": "5e0e6849-6629-4065-b3b0-bc44b2feeb63"
+    },
+    {
+      "email": "tzhou@sasaki.com",
+      "first_name": "Tianwen",
+      "last_name": "Zhou",
+      "office_phone": "011.86.138.1866.1907 ext. 111",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "b42f9eb9-cc8f-422a-9f7b-f8d83ac0b966"
+    },
+    {
+      "email": "rgenova@sasaki.com",
+      "first_name": "Robert",
+      "last_name": "Genova",
+      "office_phone": "617.923.7138",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "80622111-8ea9-412b-913c-44ef7994912f"
+    },
+    {
+      "email": "mocampo@sasaki.com",
+      "first_name": "Mary Anne",
+      "last_name": "Ocampo",
+      "office_phone": "617.923.7229",
+      "org_title": "Principal",
+      "department": "Campus",
+      "colorGroup": "Urban Designer",
+      "people_id": "c8f9a917-be35-4f23-a242-d47613401e97"
+    },
+    {
+      "email": "scknight@sasaki.com",
+      "first_name": "Susan",
+      "last_name": "Crowe Knight",
+      "office_phone": "617.923.7213",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Architect",
+      "people_id": "9350f26a-ba7b-4efc-a6ca-57a7154b9ccb"
+    },
+    {
+      "email": "cwinkler@sasaki.com",
+      "first_name": "Christopher",
+      "last_name": "Winkler",
+      "office_phone": "617.923.7269",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "6c04afa4-ca49-4656-8580-b7222c855b6b"
+    },
+    {
+      "email": "psnyder@sasaki.com",
+      "first_name": "Penny",
+      "last_name": "Snyder",
+      "office_phone": "617.926.3300",
+      "org_title": "Intern",
+      "department": "Corporate",
+      "colorGroup": "Communications Intern",
+      "people_id": "a6b7181e-a104-4d4f-88d2-4c4a8653a650"
+    },
+    {
+      "email": "wzhang@sasaki.com",
+      "first_name": "Wen",
+      "last_name": "Zhang",
+      "office_phone": "617.923.7170",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Urban Designer",
+      "people_id": "ec94e195-7034-4546-a832-cc2caf0001c8"
+    },
+    {
+      "email": "mzogran@sasaki.com",
+      "first_name": "Martin",
+      "last_name": "Zogran",
+      "office_phone": "617.923.7228",
+      "org_title": "Principal",
+      "department": "Urban",
+      "colorGroup": "Urban Designer",
+      "people_id": "9a2fe9a8-a1d1-4afa-9e2a-4447a880af23"
+    },
+    {
+      "email": "ascherling@sasaki.com",
+      "first_name": "Anna",
+      "last_name": "Scherling",
+      "office_phone": "617.923.7354",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Studio Assistant",
+      "people_id": "96c24e1e-2646-4e13-8b3e-2c963fe388b9"
+    },
+    {
+      "email": "bsleiman@sasaki.com",
+      "first_name": "Betty",
+      "last_name": "Davidian-Sleiman",
+      "office_phone": "617.923.7143",
+      "org_title": "Associate",
+      "department": "Corporate",
+      "colorGroup": "Human Resources Manager",
+      "people_id": "f943e515-13d1-471d-a64f-7270df0fe028"
+    },
+    {
+      "email": "alawson@sasaki.com",
+      "first_name": "Anthony",
+      "last_name": "Lawson",
+      "office_phone": "617.923.7187",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Architecture Designer",
+      "people_id": "9348e1c9-b2f8-4f94-b9ff-424234762654"
+    },
+    {
+      "email": "svangjeli@sasaki.com",
+      "first_name": "Sonja",
+      "last_name": "Vangjeli",
+      "office_phone": "617.923.5330",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "12484a55-b8e6-4564-9463-0db5f8bc848f"
+    },
+    {
+      "email": "pbruso@sasaki.com",
+      "first_name": "Phillip",
+      "last_name": "Bruso",
+      "office_phone": "617.923.7387",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Planner",
+      "people_id": "cefd8537-267e-4443-8fc2-6376958ae360"
+    },
+    {
+      "email": "erosenkrantz@sasaki.com",
+      "first_name": "Einat",
+      "last_name": "Rosenkrantz",
+      "office_phone": "617.923.7207",
+      "org_title": "Associate",
+      "department": "Urban",
+      "colorGroup": "Urban Designer",
+      "people_id": "9bfa2e53-9302-4f3e-a595-3d8c0df4b545"
+    },
+    {
+      "email": "jjaenicke@sasaki.com",
+      "first_name": "Julie",
+      "last_name": "Jaenicke",
+      "office_phone": "617.923.7402",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Interior Designer",
+      "people_id": "79061d47-2504-422f-9ba2-1afebd232e22"
+    },
+    {
+      "email": "cbrown@sasaki.com",
+      "first_name": "Carolyn",
+      "last_name": "Brown",
+      "office_phone": "617.923.7377",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "3f85c929-201e-4a80-bd0b-6663dadef45b"
+    },
+    {
+      "email": "cceruzzi@sasaki.com",
+      "first_name": "Carla",
+      "last_name": "Ceruzzi",
+      "office_phone": "617.923.7188",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "b1dbce4f-4417-4126-83ac-caeb65446921"
+    },
+    {
+      "email": "khunt@sasaki.com",
+      "first_name": "Kathleen",
+      "last_name": "Hunt",
+      "office_phone": "617.923.7124",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Marketing Coordinator",
+      "people_id": "e5bcd2ae-768f-48fe-bfcc-53761f7a14f7"
+    },
+    {
+      "email": "ychou@sasaki.com",
+      "first_name": "Yi-Ting",
+      "last_name": "Chou",
+      "office_phone": "617.923.7214",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect",
+      "people_id": "51827a17-0912-462e-90c7-50671901c34b"
+    },
+    {
+      "email": "rhawkins@sasaki.com",
+      "first_name": "Ryne",
+      "last_name": "Hawkins",
+      "office_phone": "617.923.7115",
+      "org_title": "Associate",
+      "department": "Urban",
+      "colorGroup": "Interior Designer",
+      "people_id": "e01ebdc5-bc63-494a-9bfb-59dfedd96e78"
+    },
+    {
+      "email": "sizzicupo@sasaki.com",
+      "first_name": "Stephanie",
+      "last_name": "Izzicupo",
+      "office_phone": "617.923.5338",
+      "org_title": "Associate",
+      "department": "Corporate",
+      "colorGroup": "Information Systems Manager",
+      "people_id": "944de705-44b7-43db-9a17-02ef74c404ed"
+    },
+    {
+      "email": "hfoley@sasaki.com",
+      "first_name": "Hannah",
+      "last_name": "Foley",
+      "office_phone": "617.923.7160",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Civil Engineering",
+      "people_id": "60f53a3d-e415-49b5-8730-5be04eb8e62b"
+    },
+    {
+      "email": "mguerra@sasaki.com",
+      "first_name": "Marta",
+      "last_name": "Guerra",
+      "office_phone": "617.923.7177",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "5fbfa446-d575-416e-84ab-505a532a0350"
+    },
+    {
+      "email": "pzhou@sasaki.com",
+      "first_name": "Phyllis",
+      "last_name": "Zhou",
+      "office_phone": "617.923.7337",
+      "org_title": "Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect",
+      "people_id": "8502c185-85b3-40a5-8486-ed0c4136c357"
+    },
+    {
+      "email": "zyu@sasaki.com",
+      "first_name": "Zhiqing",
+      "last_name": "Yu",
+      "office_phone": "011.86.138.1866.1907 ext.130",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "d622591c-5567-40f6-a2a1-0437ae544f4e"
+    },
+    {
+      "email": "lvazquez@sasaki.com",
+      "first_name": "Lilly",
+      "last_name": "Vazquez",
+      "office_phone": "617.923.7317",
+      "org_title": "Associate",
+      "department": "Corporate",
+      "colorGroup": "Accounting Clerk",
+      "people_id": "6aeb19c3-8a84-408f-8eb6-fa80abc911f3"
+    },
+    {
+      "email": "nkleman@sasaki.com",
+      "first_name": "Nicole",
+      "last_name": "Kleman",
+      "office_phone": "617.923.7261",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "5c6a7bc6-8bdb-4d54-a6cd-abc080ab1c8c"
+    },
+    {
+      "email": "yayzenberg@sasaki.com",
+      "first_name": "Yifaat",
+      "last_name": "Ayzenberg Shoshan",
+      "office_phone": "617.923.5326",
+      "org_title": "Professional",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "eb9cf672-ec07-4969-bfb8-ea2bd175dbfb"
+    },
+    {
+      "email": "jwei@sasaki.com",
+      "first_name": "Julian",
+      "last_name": "Wei",
+      "office_phone": "null",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Director of Planning and Urban Design",
+      "people_id": "cf5b90e6-c690-49c3-999e-7b88a503cba0"
+    },
+    {
+      "email": "lmarett@sasaki.com",
+      "first_name": "Laura",
+      "last_name": "Marett",
+      "office_phone": "617.923.7356",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect/PM",
+      "people_id": "644f0153-1610-4bd5-993a-f5a1cc658439"
+    },
+    {
+      "email": "jmoses@sasaki.com",
+      "first_name": "Jim",
+      "last_name": "Moses",
+      "office_phone": "617.923.5323",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "724f931a-0f1a-4579-867b-8bd2dade2e3c"
+    },
+    {
+      "email": "ltownsend@sasaki.com",
+      "first_name": "Lucca",
+      "last_name": "Townsend",
+      "office_phone": "617.923 7152",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Architecture",
+      "people_id": "b828f39b-28de-454c-84a9-4a7d8eeba280"
+    },
+    {
+      "email": "lrosso@sasaki.com",
+      "first_name": "Lucila",
+      "last_name": "Rosso",
+      "office_phone": "617.923.7315",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "2772b5ca-1b1a-443f-a93a-0ddcdd7e0184"
+    },
+    {
+      "email": "rmahan@sasaki.com",
+      "first_name": "Radhika",
+      "last_name": "Mahan",
+      "office_phone": "617.923.7392",
+      "org_title": "Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect",
+      "people_id": "0a486d2c-23a8-4509-a0ec-350e31ef8794"
+    },
+    {
+      "email": "xhong@sasaki.com",
+      "first_name": "Xiangmei",
+      "last_name": "Hong",
+      "office_phone": "86.21.61.905290 x",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Planner",
+      "people_id": "75ff1112-89ec-467f-ae1c-ba9bc1aa217d"
+    },
+    {
+      "email": "jbenea@sasaki.com",
+      "first_name": "Jeff",
+      "last_name": "Benea",
+      "office_phone": "617.923.7103",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "f9ba4856-b701-4552-9569-acaa51df5a73"
+    },
+    {
+      "email": "ndossantos@sasaki.com",
+      "first_name": "Neal",
+      "last_name": "Dos Santos",
+      "office_phone": "617.926.3300",
+      "org_title": "Intern",
+      "department": "Intern",
+      "colorGroup": "Architecture Designer",
+      "people_id": "5e338e37-a433-4726-95fa-20206284f984"
+    },
+    {
+      "email": "tpatrick@sasaki.com",
+      "first_name": "Tyler",
+      "last_name": "Patrick",
+      "office_phone": "617.923.7342",
+      "org_title": "Principal",
+      "department": "Campus",
+      "colorGroup": "Planner",
+      "people_id": "188f779e-4d22-45d8-a6ea-69ddeba73cfd"
+    },
+    {
+      "email": "rsheth@sasaki.com",
+      "first_name": "Romil",
+      "last_name": "Sheth",
+      "office_phone": "617.923.7107",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Urban Designer",
+      "people_id": "d54a4099-1edf-4b82-b39d-75f87af4a3a5"
+    },
+    {
+      "email": "speterson@sasaki.com",
+      "first_name": "Steven",
+      "last_name": "Peterson",
+      "office_phone": "617.926.3300",
+      "org_title": "Intern",
+      "department": "",
+      "colorGroup": "Landscape Architecture Intern",
+      "people_id": "5f5031ed-004b-456f-b285-147fa1af82ba"
+    },
+    {
+      "email": "syang@sasaki.com",
+      "first_name": "Shu",
+      "last_name": "Yang",
+      "office_phone": "617.923.5325",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "International Marketing Leader",
+      "people_id": "8ea6c7ae-51e2-4749-bd0c-0e14973de035"
+    },
+    {
+      "email": "mmccarthy@sasaki.com",
+      "first_name": "Meredith",
+      "last_name": "McCarthy",
+      "office_phone": "617.923.5340",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "cb10d3ad-69ba-4522-a0a9-5df7eb5c152c"
+    },
+    {
+      "email": "ylee@sasaki.com",
+      "first_name": "Youngjin",
+      "last_name": "Lee",
+      "office_phone": "617.923.7282",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "6fc17c7d-64d4-429a-a0f5-07f00f167572"
+    },
+    {
+      "email": "kslocum@sasaki.com",
+      "first_name": "Kara",
+      "last_name": "Slocum",
+      "office_phone": "617.926.3300",
+      "org_title": "Intern",
+      "department": "",
+      "colorGroup": "Civil Engineering Intern",
+      "people_id": "270db029-31d1-40e0-86dc-d58a0a7817d4"
+    },
+    {
+      "email": "rcollier@sasaki.com",
+      "first_name": "Ryan",
+      "last_name": "Collier",
+      "office_phone": "617.923.5302",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Graphic Designer",
+      "people_id": "92e010ae-81a1-4006-9057-7ed7897bdf81"
+    },
+    {
+      "email": "jgreer@sasaki.com",
+      "first_name": "Jonathan",
+      "last_name": "Greer",
+      "office_phone": "617.923.5342",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Architectural Designer",
+      "people_id": "cdb62ca4-287d-46cf-949e-50bff98f0de5"
+    },
+    {
+      "email": "chardy@sasaki.com",
+      "first_name": "Cecilia",
+      "last_name": "Hardy",
+      "office_phone": "617.923.7309",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Interior Designer",
+      "people_id": "b1b4da70-4855-40f1-bcbb-fa446abe1947"
+    },
+    {
+      "email": "cfreda@sasaki.com",
+      "first_name": "Chris",
+      "last_name": "Freda",
+      "office_phone": "617.923.7166",
+      "org_title": "Associate",
+      "department": "Urban",
+      "colorGroup": "Planner/Designer",
+      "people_id": "2c8d8ef2-b02a-426c-a688-ad07122dfe76"
+    },
+    {
+      "email": "aborras@sasaki.com",
+      "first_name": "Alex",
+      "last_name": "Borrás",
+      "office_phone": "617.923.5345",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "a3eabf9c-c134-462b-be9b-5358d130d4f2"
+    },
+    {
+      "email": "jharrington@sasaki.com",
+      "first_name": "Jessica",
+      "last_name": "Harrington",
+      "office_phone": "617.923.7396",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Interior Designer",
+      "people_id": "3355343e-dbd3-4e08-8e93-fd1782485c6b"
+    },
+    {
+      "email": "nmorales@sasaki.com",
+      "first_name": "Nuith",
+      "last_name": "Morales",
+      "office_phone": "617.923.7311",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "57bef773-b81a-4bd1-9366-0236d6a149c1"
+    },
+    {
+      "email": "alafosse@sasaki.com",
+      "first_name": "Andrew",
+      "last_name": "LaFosse",
+      "office_phone": "617.923.7136",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Architecture Designer",
+      "people_id": "54afef0f-89e7-45a8-ba0e-b1bb0b2179da"
+    },
+    {
+      "email": "mshao@sasaki.com",
+      "first_name": "Mingshan",
+      "last_name": "Shao",
+      "office_phone": "617.923.7208",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Graphic Designer",
+      "people_id": "1cedb7da-2519-4da1-aa0a-f632986a19e3"
+    },
+    {
+      "email": "vvizgaitis@sasaki.com",
+      "first_name": "Victor",
+      "last_name": "Vizgaitis",
+      "office_phone": "617.923.5328",
+      "org_title": "Principal",
+      "department": "Urban",
+      "colorGroup": "Interior Designer/Architect",
+      "people_id": "6661b7f0-0876-4936-b2b8-a6e3483057c0"
+    },
+    {
+      "email": "hwu@sasaki.com",
+      "first_name": "Helen",
+      "last_name": "Wu",
+      "office_phone": "617.923.7206",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Architecture Designer",
+      "people_id": "1b006728-6436-4fd6-a268-62e7e480578c"
+    },
+    {
+      "email": "pdsavid@sasaki.com",
+      "first_name": "Pablo",
+      "last_name": "Savid-Buteler",
+      "office_phone": "617.923.7239",
+      "org_title": "Managing Principal",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "937eb0b4-75d0-4d78-86d7-5a5ad118fb18"
+    },
+    {
+      "email": "award@sasaki.com",
+      "first_name": "Alan",
+      "last_name": "Ward",
+      "office_phone": "617.923.7198",
+      "org_title": "Principal",
+      "department": "Urban",
+      "colorGroup": "Planner and Designer",
+      "people_id": "821a514a-5411-492c-902c-e97a2df39d0b"
+    },
+    {
+      "email": "ccampbell@sasaki.com",
+      "first_name": "Christine",
+      "last_name": "Campbell",
+      "office_phone": "617.926.3300",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Receptionist",
+      "people_id": "8eb4600a-a86a-4dfa-be57-0cae1a6b5175"
+    },
+    {
+      "email": "toneil@sasaki.com",
+      "first_name": "Theresa",
+      "last_name": "O'Neil",
+      "office_phone": "617.923.7279",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Planner/Economic Analyst",
+      "people_id": "c3a57638-4cc7-4120-93c2-73a646dc53e5"
+    },
+    {
+      "email": "birwin@sasaki.com",
+      "first_name": "Bryan",
+      "last_name": "Irwin",
+      "office_phone": "617.923.7142",
+      "org_title": "Principal",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "0f3f0682-f7b2-4693-a09b-5db49804021c"
+    },
+    {
+      "email": "bbeltran@sasaki.com",
+      "first_name": "Brigitte",
+      "last_name": "Beltran",
+      "office_phone": "617.923.7263",
+      "org_title": "Senior Associate",
+      "department": "Corporate",
+      "colorGroup": "Director of Business Development",
+      "people_id": "13e9e8ac-481f-4bd2-9e85-ecb4a717a141"
+    },
+    {
+      "email": "mdawson@sasaki.com",
+      "first_name": "Mark",
+      "last_name": "Dawson",
+      "office_phone": "617.923.7225",
+      "org_title": "Managing Principal",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect",
+      "people_id": "72d02cdb-d02b-43be-9f50-f8aa8ca293a1"
+    },
+    {
+      "email": "fmerrill@sasaki.com",
+      "first_name": "Fred",
+      "last_name": "Merrill",
+      "office_phone": "617.923.7327",
+      "org_title": "Principal",
+      "department": "Urban",
+      "colorGroup": "Planner",
+      "people_id": "f818703a-958b-4739-b0ba-c855f5ac20a1"
+    },
+    {
+      "email": "samedio@sasaki.com",
+      "first_name": "Susan",
+      "last_name": "Amedio",
+      "office_phone": "617.923.7235",
+      "org_title": "Associate",
+      "department": "Corporate",
+      "colorGroup": "Accounting Clerk",
+      "people_id": "5d923e83-2866-44f4-8003-4c6bba3b98d2"
+    },
+    {
+      "email": "zliang@sasaki.com",
+      "first_name": "Zhao",
+      "last_name": "Liang",
+      "office_phone": "617.923.7128",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Planning and Urban Designer",
+      "people_id": "eda5fcd4-090e-4127-ac0b-b6e2ae3c1ee8"
+    },
+    {
+      "email": "bma@sasaki.com",
+      "first_name": "Binbin",
+      "last_name": "Ma",
+      "office_phone": "617.923.7127",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "6e987255-f375-41ac-8210-474829216699"
+    },
+    {
+      "email": "fcrowell@sasaki.com",
+      "first_name": "Fiske",
+      "last_name": "Crowell",
+      "office_phone": "617.923.7130",
+      "org_title": "Principal",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "062efda7-3dcf-43c2-9e4a-5d445aa443e9"
+    },
+    {
+      "email": "krichard@sasaki.com",
+      "first_name": "Kyle",
+      "last_name": "Richard",
+      "office_phone": "617.923.7194",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "c627e9dd-c51d-4603-a4e3-f932ff79ce81"
+    },
+    {
+      "email": "csgarzi@sasaki.com",
+      "first_name": "Chris",
+      "last_name": "Sgarzi",
+      "office_phone": "617.923.5339",
+      "org_title": "Principal",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "e3a5282a-ed0c-44a0-9797-7967e000ca7d"
+    },
+    {
+      "email": "qli@sasaki.com",
+      "first_name": "Qiyi",
+      "last_name": "Li",
+      "office_phone": "617.923.7131",
+      "org_title": "Professional Staff",
+      "department": "",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "bb5be84f-37d0-49a0-9b5d-dace16609adb"
+    },
+    {
+      "email": "dwallis@sasaki.com",
+      "first_name": "Debbie",
+      "last_name": "Wallis",
+      "office_phone": "617.923.7340",
+      "org_title": "Associate",
+      "department": "Corporate",
+      "colorGroup": "Studio Assistant",
+      "people_id": "7f8a07fc-5f75-4345-8ffb-d566c8c49a98"
+    },
+    {
+      "email": "hoyinlola@sasaki.com",
+      "first_name": "Helen",
+      "last_name": "Oyinlola",
+      "office_phone": "617.926.3300",
+      "org_title": "intern",
+      "department": "Corporate",
+      "colorGroup": "summer intern",
+      "people_id": "6fc1d018-c981-4119-8ccb-3fa062c02e8c"
+    },
+    {
+      "email": "jwilliams@sasaki.com",
+      "first_name": "Jhanea",
+      "last_name": "Williams",
+      "office_phone": "617.923.7407",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "95018470-3a91-42b6-a8cd-8593f3bc926d"
+    },
+    {
+      "email": "afurukawa@sasaki.com",
+      "first_name": "Antonio",
+      "last_name": "Furukawa",
+      "office_phone": "617.923.5333",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "1ee4e665-8a81-4f2b-919f-ec3725ec2431"
+    },
+    {
+      "email": "cmyers@sasaki.com",
+      "first_name": "Christopher",
+      "last_name": "Myers",
+      "office_phone": "617.923.7276",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "f0172456-fc3a-45fe-b9ab-c3c9323796af"
+    },
+    {
+      "email": "jsmith@sasaki.com",
+      "first_name": "Joel",
+      "last_name": "Smith",
+      "office_phone": "617.923.7275",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "cf0a5e46-9d40-4e76-a906-bb9c048a5420"
+    },
+    {
+      "email": "mpetrie@sasaki.com",
+      "first_name": "Matthew",
+      "last_name": "Petrie",
+      "office_phone": "617.923.7283",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "8b0b020a-8063-47b7-9a03-e9d00e34a33f"
+    },
+    {
+      "email": "yliu@sasaki.com",
+      "first_name": "Yaqi",
+      "last_name": "Liu",
+      "office_phone": "86.21.5109 0906",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "7979b4f6-bc1d-4c7a-8b68-162645f5bbbe"
+    },
+    {
+      "email": "rsannen@sasaki.com",
+      "first_name": "Ruben",
+      "last_name": "Sannen",
+      "office_phone": "617.923.7129",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Architecture Designer",
+      "people_id": "91e88038-777f-4130-8ef8-d50089197499"
+    },
+    {
+      "email": "aleung@sasaki.com",
+      "first_name": "Andrew",
+      "last_name": "Leung",
+      "office_phone": "617.923.5312",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Urban Designer",
+      "people_id": "2bd078fa-d79e-45f7-a27e-35ae2841d991"
+    },
+    {
+      "email": "skun@sasaki.com",
+      "first_name": "Stephen",
+      "last_name": "Kun",
+      "office_phone": "617.923.7367",
+      "org_title": "Associate",
+      "department": "Urban",
+      "colorGroup": "Planner",
+      "people_id": "9493b689-7439-438c-8ee6-cfacbe99752f"
+    },
+    {
+      "email": "veskinazi@sasaki.com",
+      "first_name": "Victor",
+      "last_name": "Eskinazi",
+      "office_phone": "617.923.7109",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Urban Designer",
+      "people_id": "d9767a7f-9e9a-495b-a1a4-4b8f85ffe21e"
+    },
+    {
+      "email": "mloria@sasaki.com",
+      "first_name": "Melanie",
+      "last_name": "Loria",
+      "office_phone": "617.923.7353",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Marketing Assistant",
+      "people_id": "2d69685b-efc3-4986-952e-51b4d010009d"
+    },
+    {
+      "email": "kgoulding@sasaki.com",
+      "first_name": "Ken",
+      "last_name": "Goulding",
+      "office_phone": "617.923.5324",
+      "org_title": "Principal",
+      "department": "Campus",
+      "colorGroup": "Planner",
+      "people_id": "1048d03d-3c45-4099-ad3c-bdd3638ae639"
+    },
+    {
+      "email": "amorgan@sasaki.com",
+      "first_name": "Adde",
+      "last_name": "Morgan",
+      "office_phone": "617.923.7218",
+      "org_title": "Associate",
+      "department": "Corporate",
+      "colorGroup": "Marketing Manager",
+      "people_id": "d619bfdf-4144-4484-b3cc-f923dc3d3ad6"
+    },
+    {
+      "email": "varend@sasaki.com",
+      "first_name": "Van",
+      "last_name": "Arend",
+      "office_phone": "617.926.3300",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Receptionist",
+      "people_id": "1aaa499b-1989-4ba7-a14b-779c326929fa"
+    },
+    {
+      "email": "spease@sasaki.com",
+      "first_name": "Sam",
+      "last_name": "Pease",
+      "office_phone": "617.923.7285",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Director of Environmental Graphics",
+      "people_id": "051b88f3-0697-4b25-9f42-82bf29efd46a"
+    },
+    {
+      "email": "ltormay@sasaki.com",
+      "first_name": "Letitia",
+      "last_name": "Tormay",
+      "office_phone": "617.923.7123",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect",
+      "people_id": "02fc8abe-e356-4197-86ce-2b806b5746fe"
+    },
+    {
+      "email": "izempel@sasaki.com",
+      "first_name": "Isabel",
+      "last_name": "Zempel",
+      "office_phone": "617.923.7352",
+      "org_title": "Principal",
+      "department": "Urban",
+      "colorGroup": "Designer/PM",
+      "people_id": "f99f1cd3-a191-4a98-9bca-4a5e92f3a70c"
+    },
+    {
+      "email": "rtitus@sasaki.com",
+      "first_name": "Robert",
+      "last_name": "Titus",
+      "office_phone": "617.923.7339",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "3459eb78-1380-4c9b-befa-aca86c25cb88"
+    },
+    {
+      "email": "iotero@sasaki.com",
+      "first_name": "Ivelisse",
+      "last_name": "Otero",
+      "office_phone": "617.923.5331",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "0b968a93-8052-48af-abcd-6194f7028833"
+    },
+    {
+      "email": "bbarnett@sasaki.com",
+      "first_name": "Brad",
+      "last_name": "Barnett",
+      "office_phone": "617.923.7182",
+      "org_title": "Associate",
+      "department": "Urban",
+      "colorGroup": "Planner",
+      "people_id": "158295ae-2f03-42e2-b3af-beceda717d4a"
+    },
+    {
+      "email": "lyip@sasaki.com",
+      "first_name": "Lan Ying",
+      "last_name": "Ip",
+      "office_phone": "617.923.7316",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "722be4c4-82d5-4b67-abca-c35b3cd1bf03"
+    },
+    {
+      "email": "yhsiao@sasaki.com",
+      "first_name": "Yu-Ang",
+      "last_name": "Hsiao",
+      "office_phone": "null",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "d8929c9a-70aa-415a-be23-461eb8129c11"
+    },
+    {
+      "email": "dlandry@sasaki.com",
+      "first_name": "Diane",
+      "last_name": "Landry",
+      "office_phone": "617.923.7349",
+      "org_title": "Associate",
+      "department": "Corporate",
+      "colorGroup": "Accounting Clerk",
+      "people_id": "1d66a8e4-39d2-48da-a61b-2bd76d570ff1"
+    },
+    {
+      "email": "gford@sasaki.com",
+      "first_name": "Gina",
+      "last_name": "Ford",
+      "office_phone": "617.923.7161",
+      "org_title": "Principal",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect",
+      "people_id": "46f2bb86-e35c-414b-a7a6-9c7274977e0d"
+    },
+    {
+      "email": "eshrier@sasaki.com",
+      "first_name": "Ethan",
+      "last_name": "Shrier",
+      "office_phone": "617.923.7149",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "System Analyst",
+      "people_id": "1734a03b-9a48-497a-8d60-e0fe7757cca1"
+    },
+    {
+      "email": "jmiranda@sasaki.com",
+      "first_name": "Jose",
+      "last_name": "Miranda",
+      "office_phone": "617.923.7120",
+      "org_title": "Associate",
+      "department": "Urban",
+      "colorGroup": "CAD Tech",
+      "people_id": "98ac1138-bb70-4d6d-a639-93c17947e5d7"
+    },
+    {
+      "email": "mhsueh@sasaki.com",
+      "first_name": "Ming-Jen",
+      "last_name": "Hsueh",
+      "office_phone": "617.923.7334",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect",
+      "people_id": "f32ba0aa-b4b1-4fe4-86c5-ec244b0a23de"
+    },
+    {
+      "email": "misidor@sasaki.com",
+      "first_name": "Melissa",
+      "last_name": "Isidor",
+      "office_phone": "617.926.3300",
+      "org_title": "Intern",
+      "department": "Operations",
+      "colorGroup": "Marketing Intern",
+      "people_id": "cc6fbb19-c6a9-45ef-acd5-e5a385809a90"
+    },
+    {
+      "email": "tdube@sasaki.com",
+      "first_name": "Terri",
+      "last_name": "Dube",
+      "office_phone": "617.923.7265",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Graphic Designer",
+      "people_id": "19c4d7e4-348c-4845-80b6-e55fdcfaf308"
+    },
+    {
+      "email": "tadiraman@sasaki.com",
+      "first_name": "Thiyagarajan",
+      "last_name": "Adi Raman",
+      "office_phone": "617.923.7266",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Programmer",
+      "people_id": "22016e45-75fb-4320-8b8c-94d44e5b12a1"
+    },
+    {
+      "email": "sarslan@sasaki.com",
+      "first_name": "Selin",
+      "last_name": "Arslan",
+      "office_phone": "617.923.7278",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Planner",
+      "people_id": "9b10473a-3bd8-495f-8071-64596ab8b983"
+    },
+    {
+      "email": "apelletier@sasaki.com",
+      "first_name": "Ashley",
+      "last_name": "Pelletier",
+      "office_phone": "617.923.7137",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "92d68590-bd37-4986-b4c4-d92e243f39f0"
+    },
+    {
+      "email": "jfinnicum@sasaki.com",
+      "first_name": "Justin",
+      "last_name": "Finnicum",
+      "office_phone": "617.923.7146",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "8df390a5-e50c-4350-8f89-a4bc6f41b5b5"
+    },
+    {
+      "email": "nsteinkraus@sasaki.com",
+      "first_name": "Nich",
+      "last_name": "Steinkraus",
+      "office_phone": "617.923.5317",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "1691dc4a-71fd-44cd-8502-b8520dfac950"
+    },
+    {
+      "email": "jcarlton@sasaki.com",
+      "first_name": "Julia",
+      "last_name": "Carlton",
+      "office_phone": "617.923 7224",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Planner",
+      "people_id": "9385a41f-438a-47fb-946e-88a84143f1a1"
+    },
+    {
+      "email": "pprakkamakul@sasaki.com",
+      "first_name": "Ponnapa",
+      "last_name": "Prakkamakul",
+      "office_phone": "617.923.7405",
+      "org_title": "Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect",
+      "people_id": "d79c1cf5-82cb-4856-b6d2-3488eb9d21c6"
+    },
+    {
+      "email": "ehutton@sasaki.com",
+      "first_name": "Eamonn",
+      "last_name": "Hutton",
+      "office_phone": "617.923.7132",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect",
+      "people_id": "cad9169a-593d-4d54-bc70-362be9c3f53e"
+    },
+    {
+      "email": "ecalamari@sasaki.com",
+      "first_name": "Edward",
+      "last_name": "Calamari",
+      "office_phone": "617.923.7221",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "11ac428a-61c9-485a-a746-547cf2c1643b"
+    },
+    {
+      "email": "lye@sasaki.com",
+      "first_name": "Lin",
+      "last_name": "Ye",
+      "office_phone": "617.923.7244",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "bb7fa6f8-90be-411a-a448-0a4d37c3846e"
+    },
+    {
+      "email": "sjlacker@sasaki.com",
+      "first_name": "Stephen",
+      "last_name": "Lacker",
+      "office_phone": "617.923.7390",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "939a299a-39ab-4fb8-8a65-c988555ee857"
+    },
+    {
+      "email": "ggutierrez@sasaki.com",
+      "first_name": "Gerry",
+      "last_name": "Gutierrez",
+      "office_phone": "617.923.7226",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "7da95ad6-d664-46c9-96d0-6aa11330d73c"
+    },
+    {
+      "email": "tklein@sasaki.com",
+      "first_name": "Tom",
+      "last_name": "Klein",
+      "office_phone": "617.926.3300",
+      "org_title": "Intern",
+      "department": "",
+      "colorGroup": "Landscape Architecture Intern",
+      "people_id": "f200f6bb-4a55-4300-a76d-8b447c72a092"
+    },
+    {
+      "email": "adesaulniers@sasaki.com",
+      "first_name": "Alex",
+      "last_name": "Desaulniers",
+      "office_phone": "617.923.7171",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Interior Designer",
+      "people_id": "ec795acf-618c-4590-a02e-fdcae09e7db9"
+    },
+    {
+      "email": "lclark@sasaki.com",
+      "first_name": "Lexus",
+      "last_name": "Clark",
+      "office_phone": "null",
+      "org_title": "Intern",
+      "department": "Campus",
+      "colorGroup": "Architecture",
+      "people_id": "dc4953b4-7996-4b23-b280-df856dd060d2"
+    },
+    {
+      "email": "cbarsoum@sasaki.com",
+      "first_name": "Catherine",
+      "last_name": "Barsoum",
+      "office_phone": "617.923.7126",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Architect",
+      "people_id": "6ed2348e-8e91-4f8a-b6a4-d94b74acfc95"
+    },
+    {
+      "email": "ckuczynski@sasaki.com",
+      "first_name": "Christopher",
+      "last_name": "Kuczynski",
+      "office_phone": "617.923.5303",
+      "org_title": "Professional Staff",
+      "department": "",
+      "colorGroup": "Architecture Designer",
+      "people_id": "e2b7821b-fbb4-4ea0-8c9a-dd1043c8d73f"
+    },
+    {
+      "email": "rcolavecchio@sasaki.com",
+      "first_name": "Richard",
+      "last_name": "Colavecchio",
+      "office_phone": "617.923.7189",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "0f07dd67-a558-4e3d-ac06-d68e9b61da6d"
+    },
+    {
+      "email": "mliander@sasaki.com",
+      "first_name": "Margit",
+      "last_name": "Liander",
+      "office_phone": "617.923.7210",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Planner",
+      "people_id": "abf4baa0-8b90-4e1a-a9e8-6b79644a5405"
+    },
+    {
+      "email": "rculver@sasaki.com",
+      "first_name": "Robert",
+      "last_name": "Culver",
+      "office_phone": "617.923.7304",
+      "org_title": "Principal",
+      "department": "Corporate",
+      "colorGroup": "Managing Director",
+      "people_id": "052cbf45-4cc7-47dd-a677-3bd9725dfde4"
+    },
+    {
+      "email": "xdu@sasaki.com",
+      "first_name": "Xiaoran",
+      "last_name": "Du",
+      "office_phone": "617.923.5310",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "b5d487b5-5761-4681-9a9c-7854babbd7c5"
+    },
+    {
+      "email": "zxu@sasaki.com",
+      "first_name": "Zhicheng Daniel",
+      "last_name": "Xu",
+      "office_phone": "617.923.7155",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "32da8551-431a-40a6-acec-7d11f214bc94"
+    },
+    {
+      "email": "rli@sasaki.com",
+      "first_name": "Ruichao",
+      "last_name": "Li",
+      "office_phone": "617.926.3300",
+      "org_title": "Intern",
+      "department": "",
+      "colorGroup": "Landscape Architecture Intern",
+      "people_id": "1718b97e-2ec0-4842-ad8e-7c7911049b0f"
+    },
+    {
+      "email": "alyons@sasaki.com",
+      "first_name": "Anastasia",
+      "last_name": "Lyons",
+      "office_phone": "617.923.5332",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Marketing Coordinator",
+      "people_id": "aae2fe7a-b31f-44b6-9763-17b66966b9fb"
+    },
+    {
+      "email": "jmladinov@sasaki.com",
+      "first_name": "Jerolim",
+      "last_name": "Mladinov",
+      "office_phone": "617.923.7348",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "71128f8f-91c1-42da-b310-1ad0cf31781d"
+    },
+    {
+      "email": "mreese@sasaki.com",
+      "first_name": "Matt",
+      "last_name": "Reese",
+      "office_phone": "617.923.7106",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Civil Engineering",
+      "people_id": "845bd14f-0dfa-4ace-9f6e-e04e7941cb15"
+    },
+    {
+      "email": "mgrove@sasaki.com",
+      "first_name": "Michael",
+      "last_name": "Grove",
+      "office_phone": "617.923.7319",
+      "org_title": "Principal",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect",
+      "people_id": "23032413-f674-4195-919c-99eac98736ec"
+    },
+    {
+      "email": "ksargent@sasaki.com",
+      "first_name": "Kira",
+      "last_name": "Sargent",
+      "office_phone": "617.926.3300",
+      "org_title": "Intern",
+      "department": "",
+      "colorGroup": "Landscape Architecture Intern",
+      "people_id": "8375c907-da81-430e-8866-68b7a66eb413"
+    },
+    {
+      "email": "jpastrana@sasaki.com",
+      "first_name": "Jeanette",
+      "last_name": "Pastrana",
+      "office_phone": "617.923.7324",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "8cbdb892-0118-45d9-b3b7-91e86c5442dc"
+    },
+    {
+      "email": "jfang@sasaki.com",
+      "first_name": "Jia",
+      "last_name": "Fang",
+      "office_phone": "617.923.5343",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Urban Designer",
+      "people_id": "0e0ace9f-6a97-44ea-8dd8-98bb3ccda5b7"
+    },
+    {
+      "email": "cclauson@sasaki.com",
+      "first_name": "Caitlyn",
+      "last_name": "Clauson",
+      "office_phone": "617.923.7145",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Planner",
+      "people_id": "ab4ad4f0-25a9-4415-aed0-651951695591"
+    },
+    {
+      "email": "scohen@sasaki.com",
+      "first_name": "Sara",
+      "last_name": "Cohen",
+      "office_phone": "617.923.7246",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect",
+      "people_id": "8a5331cd-417f-450a-b2b5-69f4f7fe58f1"
+    },
+    {
+      "email": "rtseng@sasaki.com",
+      "first_name": "Rex",
+      "last_name": "Tseng",
+      "office_phone": "617.923.5313",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "0471197a-a0e7-4f7d-8459-878881fc7143"
+    },
+    {
+      "email": "swalz@sasaki.com",
+      "first_name": "Steve",
+      "last_name": "Walz",
+      "office_phone": "617.923.5314",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "2463ec73-981a-4fb7-a85e-0b6f2053cc6b"
+    },
+    {
+      "email": "aleventhal@sasaki.com",
+      "first_name": "Aliza",
+      "last_name": "Leventhal",
+      "office_phone": "617.923.7156",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Librarian/Archivist",
+      "people_id": "16d608b8-ccd2-4e54-aa84-e6c9843655c8"
+    },
+    {
+      "email": "jishi@sasaki.com",
+      "first_name": "Jianwei",
+      "last_name": "Shi",
+      "office_phone": "617.926.3300",
+      "org_title": "Intern",
+      "department": "",
+      "colorGroup": "Urban Design Intern",
+      "people_id": "0bf3826b-d0ac-44ec-b647-f5c9b9d6b354"
+    },
+    {
+      "email": "yqian@sasaki.com",
+      "first_name": "Yiling",
+      "last_name": "Qian",
+      "office_phone": "011.86.21.5109.0906 ext. 101",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Administrative Assistant",
+      "people_id": "d61ee820-d973-4d29-933c-ff806a5ad2b8"
+    },
+    {
+      "email": "shao@sasaki.com",
+      "first_name": "Shuai",
+      "last_name": "Hao",
+      "office_phone": "617.923.7404",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "6b3588f3-97f2-4dd1-a91a-1910a165dc86"
+    },
+    {
+      "email": "bmassey@sasaki.com",
+      "first_name": "Bill",
+      "last_name": "Massey",
+      "office_phone": "617.923.7385",
+      "org_title": "Principal",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "3e3417f3-63f1-4e4e-8204-6b086fcdcadf"
+    },
+    {
+      "email": "pchang@sasaki.com",
+      "first_name": "Poshan",
+      "last_name": "Chang",
+      "office_phone": "null",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "d664fa08-6913-4ba5-93d7-3976c83ff0f0"
+    },
+    {
+      "email": "cbosco@sasaki.com",
+      "first_name": "Cassie",
+      "last_name": "Bosco",
+      "office_phone": "617.923.7169",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "1db376de-d34e-4f18-81fe-06e4a14d72d0"
+    },
+    {
+      "email": "eparris@sasaki.com",
+      "first_name": "Emily",
+      "last_name": "Parris",
+      "office_phone": "617.923.7154",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "948f0318-7ee7-4fe0-b790-24d2ed3f9e7d"
+    },
+    {
+      "email": "vpetchthevee@sasaki.com",
+      "first_name": "Vee",
+      "last_name": "Petchthevee",
+      "office_phone": "617.923.7298",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "f50e9907-ba76-4816-9366-719145da7307"
+    },
+    {
+      "email": "dzhang@sasaki.com",
+      "first_name": "Dou",
+      "last_name": "Zhang",
+      "office_phone": "011.86.138.1866.1907 ext. 150",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect/PM",
+      "people_id": "45affaca-79ac-44c8-b617-6047212874e7"
+    },
+    {
+      "email": "jkleinman@sasaki.com",
+      "first_name": "Jane",
+      "last_name": "Kleinman",
+      "office_phone": "617.923.7175",
+      "org_title": "Temporary Staff",
+      "department": "",
+      "colorGroup": "Strategies Planning Consultant",
+      "people_id": "3ecc868a-5132-45dc-8e82-add2c3dd7ac8"
+    },
+    {
+      "email": "mkanda@sasaki.com",
+      "first_name": "Marley",
+      "last_name": "Kanda",
+      "office_phone": "617.923.7168",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Architecture Designer",
+      "people_id": "b2bca55b-e1ce-445f-9067-afc20751dabd"
+    },
+    {
+      "email": "dpryor@sasaki.com",
+      "first_name": "Daniel",
+      "last_name": "Pryor",
+      "office_phone": "617.923.7305",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "a87f460a-02ae-4297-b9e3-21bb54dc6580"
+    },
+    {
+      "email": "chart@sasaki.com",
+      "first_name": "Charlie",
+      "last_name": "Hart",
+      "office_phone": "617.926.3300",
+      "org_title": "Intern",
+      "department": "",
+      "colorGroup": "Model Builder",
+      "people_id": "28aaa40c-7e12-4ccc-88cd-c056c19f12a6"
+    },
+    {
+      "email": "lhsu@sasaki.com",
+      "first_name": "Lynn",
+      "last_name": "Hsu",
+      "office_phone": "617-923-7322",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "e6c57317-5f94-40ea-82ea-a1741057909f"
+    },
+    {
+      "email": "yjiang@sasaki.com",
+      "first_name": "Yuting",
+      "last_name": "Jiang",
+      "office_phone": "617.923.7121",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "ca90677f-f24d-4272-ac8d-6bb873376eca"
+    },
+    {
+      "email": "sagrawal@sasaki.com",
+      "first_name": "Sejal",
+      "last_name": "Agrawal",
+      "office_phone": "617.923.5301",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Urban Designer",
+      "people_id": "a76408ba-6d45-49da-a62a-79df8670e2c1"
+    },
+    {
+      "email": "mliu@sasaki.com",
+      "first_name": "Mengxuan",
+      "last_name": "Liu",
+      "office_phone": "617.926.3300",
+      "org_title": "Intern",
+      "department": "",
+      "colorGroup": "Landscape Architecture Intern",
+      "people_id": "9438bd96-f118-4131-aaec-a556c4620d9d"
+    },
+    {
+      "email": "wsasser@sasaki.com",
+      "first_name": "Trey",
+      "last_name": "Sasser",
+      "office_phone": "617.923.7372",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Civil Engineer",
+      "people_id": "5041ff00-dfd9-4651-947a-b9380922a536"
+    },
+    {
+      "email": "bkim@sasaki.com",
+      "first_name": "Bomin",
+      "last_name": "Kim",
+      "office_phone": "617.923.5319",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Sustainability Coordinator",
+      "people_id": "ee3f136a-a884-4a77-9dc3-93c7e12531e7"
+    },
+    {
+      "email": "mlangan@sasaki.com",
+      "first_name": "Matt",
+      "last_name": "Langan",
+      "office_phone": "617.923.7151",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Landscape Architect",
+      "people_id": "1c517868-e4cf-4ebf-81e0-167f533cb462"
+    },
+    {
+      "email": "ckim@sasaki.com",
+      "first_name": "Chanwoo",
+      "last_name": "Kim",
+      "office_phone": "617.923.7313",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Urban Designer",
+      "people_id": "963f0bc7-4c37-4398-921c-6f1cd36bf6ce"
+    },
+    {
+      "email": "dfernandez@sasaki.com",
+      "first_name": "Diana",
+      "last_name": "Fernandez",
+      "office_phone": "617.923.5322",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "f9fc33bb-04b4-4c7e-a4a8-3ae081630560"
+    },
+    {
+      "email": "kbosela@sasaki.com",
+      "first_name": "Kayla",
+      "last_name": "Bosela",
+      "office_phone": "617.923.7253",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Marketing Coordinator",
+      "people_id": "8d916e04-a09a-446c-8cf2-28a69119159c"
+    },
+    {
+      "email": "nfreedman@sasaki.com",
+      "first_name": "Nancy",
+      "last_name": "Freedman",
+      "office_phone": "617.923.7135",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "3165f468-1376-4a6a-abcc-54a621df83a2"
+    },
+    {
+      "email": "afettes@sasaki.com",
+      "first_name": "Anthony",
+      "last_name": "Fettes",
+      "office_phone": "617.923.7260",
+      "org_title": "Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect",
+      "people_id": "43e03a3a-a8de-499e-bf27-822d634f48fd"
+    },
+    {
+      "email": "sdoherty@sasaki.com",
+      "first_name": "Shaun",
+      "last_name": "Doherty",
+      "office_phone": "617.923.7374",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "IS Catalyst",
+      "people_id": "7371af7c-554b-44c7-9782-82779d82f518"
+    },
+    {
+      "email": "agutterman@sasaki.com",
+      "first_name": "Andrew",
+      "last_name": "Gutterman",
+      "office_phone": "617 923 7211",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Landscape Architect",
+      "people_id": "85f1c924-2c95-4e77-9ada-18c30cef8484"
+    },
+    {
+      "email": "sdunbar@sasaki.com",
+      "first_name": "Sarah",
+      "last_name": "Dunbar",
+      "office_phone": "617.923.7378",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "ae6f27d7-b670-451c-8528-292939799c08"
+    },
+    {
+      "email": "sren@sasaki.com",
+      "first_name": "Sihui",
+      "last_name": "Ren",
+      "office_phone": "617.926.3300",
+      "org_title": "Intern",
+      "department": "Intern",
+      "colorGroup": "Architecture Designer",
+      "people_id": "86548e8e-cec0-4847-8e70-2dd577459ee2"
+    },
+    {
+      "email": "oehigiator@sasaki.com",
+      "first_name": "Osazemen",
+      "last_name": "Ehigiator",
+      "office_phone": "617.923.7370",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Office Services",
+      "people_id": "7e03195d-1a9f-49aa-9a23-c82f9498c06d"
+    },
+    {
+      "email": "jchow@sasaki.com",
+      "first_name": "Joanna",
+      "last_name": "Chow",
+      "office_phone": "617.923.7184",
+      "org_title": "Associate",
+      "department": "Corporate",
+      "colorGroup": "Brand Communications Manager",
+      "people_id": "ef8c0d30-e123-4cf4-9cf8-ed985dc79745"
+    },
+    {
+      "email": "jfay@sasaki.com",
+      "first_name": "Justin",
+      "last_name": "Fay",
+      "office_phone": "617.923.7163",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Planner",
+      "people_id": "65dc53e9-cb47-4965-9eae-acd45c272924"
+    },
+    {
+      "email": "lge@sasaki.com",
+      "first_name": "Lan",
+      "last_name": "Ge",
+      "office_phone": "617.923.7280",
+      "org_title": "Associate",
+      "department": "Urban",
+      "colorGroup": "Urban Designer",
+      "people_id": "d71fbc06-3586-46e9-9e20-369b393a994e"
+    },
+    {
+      "email": "dappel@sasaki.com",
+      "first_name": "David",
+      "last_name": "Appel",
+      "office_phone": "617/923.7258",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Marketing Coordinator",
+      "people_id": "0f1ba75c-8c87-4d13-8e7b-116d39988ddb"
+    },
+    {
+      "email": "aeaton@sasaki.com",
+      "first_name": "Ali",
+      "last_name": "Eaton",
+      "office_phone": "617.923.7117",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Studio Assistant",
+      "people_id": "a3b537d6-a5bb-4750-ba01-dd94b8c767c7"
+    },
+    {
+      "email": "cdunn@sasaki.com",
+      "first_name": "Christine",
+      "last_name": "Dunn",
+      "office_phone": "617.923.7164",
+      "org_title": "Principal",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "f7f52732-f7c6-40b5-9161-b4081bf8d66a"
+    },
+    {
+      "email": "syu@sasaki.com",
+      "first_name": "Sylvia",
+      "last_name": "Yu",
+      "office_phone": "617.923.7323",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Interior Designer",
+      "people_id": "206074d2-d75d-4c2f-a0d5-02426847cc2b"
+    },
+    {
+      "email": "khebard@sasaki.com",
+      "first_name": "Kevin",
+      "last_name": "Hebard",
+      "office_phone": "617.923.7133",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Civil Engineering",
+      "people_id": "f9812289-966a-45db-bced-6731cf000141"
+    },
+    {
+      "email": "sross@sasaki.com",
+      "first_name": "Susannah",
+      "last_name": "Ross",
+      "office_phone": "617.923.7398",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect/PM",
+      "people_id": "59c29ad1-ad0b-4e74-98ec-009d3f2ebc15"
+    },
+    {
+      "email": "fpbarash@sasaki.com",
+      "first_name": "F. Philip",
+      "last_name": "Barash",
+      "office_phone": "617.923.7291",
+      "org_title": "Associate",
+      "department": "Corporate",
+      "colorGroup": "Creative Director",
+      "people_id": "299677e2-f2f1-46b1-97e7-c70d85801314"
+    },
+    {
+      "email": "ggonzalez@sasaki.com",
+      "first_name": "Gloriana",
+      "last_name": "Gonzalez",
+      "office_phone": "617.923.5347",
+      "org_title": "Professional Staff",
+      "department": "",
+      "colorGroup": "Architecture Designer",
+      "people_id": "c736995d-8407-4347-a011-6979ecc77835"
+    },
+    {
+      "email": "hschlosman@sasaki.com",
+      "first_name": "Hernan",
+      "last_name": "Schlosman",
+      "office_phone": "617.923.7272",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Urban Designer | Planner",
+      "people_id": "01b9ba04-4b62-4964-a5d4-2662ba189222"
+    },
+    {
+      "email": "sroscoe@sasaki.com",
+      "first_name": "Steve",
+      "last_name": "Roscoe",
+      "office_phone": "617.923.7191",
+      "org_title": "Principal",
+      "department": "Corporate",
+      "colorGroup": "CFO",
+      "people_id": "9acc5e34-b919-4575-844d-d928f73a20f0"
+    },
+    {
+      "email": "marielly@sasaki.com",
+      "first_name": "Matthew",
+      "last_name": "Arielly",
+      "office_phone": "617.923.7241",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Communications Coordinator",
+      "people_id": "4346a47d-4676-4573-9aeb-7037868d7b53"
+    },
+    {
+      "email": "tzhang@sasaki.com",
+      "first_name": "Tao",
+      "last_name": "Zhang",
+      "office_phone": "617.923.7297",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect",
+      "people_id": "b08b0e07-be05-4f81-bcb5-9e3b71abe7d0"
+    },
+    {
+      "email": "mnalbandyan@sasaki.com",
+      "first_name": "Mariam",
+      "last_name": "Nalbandyan",
+      "office_phone": "617.923.5305",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Studio Assistant",
+      "people_id": "b5b30417-863b-4814-99cd-637f7f45df45"
+    },
+    {
+      "email": "egovindan@sasaki.com",
+      "first_name": "Elangovan",
+      "last_name": "Govindan",
+      "office_phone": "617.923.5341",
+      "org_title": "Associate",
+      "department": "Urban",
+      "colorGroup": "Planner",
+      "people_id": "ddf2eba7-c3a9-4de8-9b32-e40d7b9a0801"
+    },
+    {
+      "email": "cbraga@sasaki.com",
+      "first_name": "Caroline",
+      "last_name": "Braga",
+      "office_phone": "617.923.7345",
+      "org_title": "Principal",
+      "department": "Campus",
+      "colorGroup": "Landscape Architect",
+      "people_id": "578e1edf-68bd-4972-9827-1b0bb92a0170"
+    },
+    {
+      "email": "mmacchietto@sasaki.com",
+      "first_name": "Matthew",
+      "last_name": "Macchietto",
+      "office_phone": "617.923.7271",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "75499242-eb6d-4aec-8fdc-527a4b447ef4"
+    },
+    {
+      "email": "vsteven@sasaki.com",
+      "first_name": "Victoria",
+      "last_name": "Steven",
+      "office_phone": "617.923.5327",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "46b02177-e6b3-41f2-ab6c-a18e9b1c0db3"
+    },
+    {
+      "email": "amcclurg@sasaki.com",
+      "first_name": "Andy",
+      "last_name": "McClurg",
+      "office_phone": "617.923.7179",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Planner",
+      "people_id": "b65323c2-8cb1-4c0c-be73-2822928d2406"
+    },
+    {
+      "email": "mxia@sasaki.com",
+      "first_name": "Mengchen",
+      "last_name": "Xia",
+      "office_phone": "617.923.5344",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Urban Designer",
+      "people_id": "1698ae1f-1d62-4234-abb2-97bbc291dfcf"
+    },
+    {
+      "email": "aaustin@sasaki.com",
+      "first_name": "Allison",
+      "last_name": "Austin",
+      "office_phone": "617.923.5320",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "502fd09f-0484-4ebf-932d-9f09443daa96"
+    },
+    {
+      "email": "clinera@sasaki.com",
+      "first_name": "Christiana",
+      "last_name": "Linera",
+      "office_phone": "617.923.7318",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Interior Designer",
+      "people_id": "9aba6cfd-4ad0-4ce8-aa54-54081f15f3c6"
+    },
+    {
+      "email": "myu@sasaki.com",
+      "first_name": "Mengyao",
+      "last_name": "Yu",
+      "office_phone": "617.923.7355",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "a089f01c-946c-4aca-be05-52125725139e"
+    },
+    {
+      "email": "nlee@sasaki.com",
+      "first_name": "Nangyeong",
+      "last_name": "Lee",
+      "office_phone": "617 926.3300",
+      "org_title": "Intern",
+      "department": "Urban",
+      "colorGroup": "Graphics Intern",
+      "people_id": "9e8c66a4-f939-4a0e-8d42-5137a736a511"
+    },
+    {
+      "email": "ffrancisco@sasaki.com",
+      "first_name": "Felipe",
+      "last_name": "Francisco",
+      "office_phone": "617.923.5307",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Architecture Designer",
+      "people_id": "f414b762-3ad4-40e9-83fa-5046bc7b2a02"
+    },
+    {
+      "email": "jnothoff@sasaki.com",
+      "first_name": "Jay",
+      "last_name": "Nothoff",
+      "office_phone": "617.923.7150",
+      "org_title": "Associate",
+      "department": "Corporate",
+      "colorGroup": "IT Support Specialist",
+      "people_id": "86a7767c-e07a-4d4a-8898-e7518ca52cc7"
+    },
+    {
+      "email": "hchase@sasaki.com",
+      "first_name": "Hillary",
+      "last_name": "Chase",
+      "office_phone": "617.923.7338",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Marketing Coordinator",
+      "people_id": "391038a8-7d4f-48fb-b440-13f41bac36e0"
+    },
+    {
+      "email": "smorley@sasaki.com",
+      "first_name": "Shaelena",
+      "last_name": "Morley",
+      "office_phone": "617.923.7286",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "ea4cdffd-ce52-47fc-b934-56fdd5075040"
+    },
+    {
+      "email": "kboudreau@sasaki.com",
+      "first_name": "Kathryn",
+      "last_name": "Boudreau",
+      "office_phone": "617.923.7167",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Interior Designer",
+      "people_id": "89172f39-2e63-4b8b-9c0e-fc41800f511b"
+    },
+    {
+      "email": "jsugrue@sasaki.com",
+      "first_name": "John",
+      "last_name": "Sugrue",
+      "office_phone": "617.923.7273",
+      "org_title": "senior Associate",
+      "department": "Urban",
+      "colorGroup": "Urban Designer",
+      "people_id": "456ba179-82f5-4c95-b637-136df4925780"
+    },
+    {
+      "email": "selias@sasaki.com",
+      "first_name": "Sophie",
+      "last_name": "Elias",
+      "office_phone": "617.923.7401",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Marketing Coordinator",
+      "people_id": "ef0a3ddf-e03f-4dbd-9593-39b0ec2bd479"
+    },
+    {
+      "email": "wwang@sasaki.com",
+      "first_name": "Wendy",
+      "last_name": "Wang",
+      "office_phone": "617.923.7341",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "07011f38-fbb0-4942-8bfa-dea605d332c7"
+    },
+    {
+      "email": "zloudin@sasaki.com",
+      "first_name": "Zachary",
+      "last_name": "Loudin",
+      "office_phone": "617.923.5304",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Communications Coordinator",
+      "people_id": "9fdce101-1496-4951-a183-e247effa54f9"
+    },
+    {
+      "email": "pdugdale@sasaki.com",
+      "first_name": "Philip",
+      "last_name": "Dugdale",
+      "office_phone": "617.923.7114",
+      "org_title": "Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "850f5ad3-90f5-4a45-869f-12e5c7893248"
+    },
+    {
+      "email": "gmosca@sasaki.com",
+      "first_name": "Gina",
+      "last_name": "Mosca",
+      "office_phone": "617.923.7148",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Interior Designer",
+      "people_id": "b4606047-c827-4fc3-aecf-e4991275e478"
+    },
+    {
+      "email": "ddwyer@sasaki.com",
+      "first_name": "Dan",
+      "last_name": "Dwyer",
+      "office_phone": "617.923.7303",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "39e16de3-3229-4b81-81e9-98171b106c4b"
+    },
+    {
+      "email": "ddecarlo@sasaki.com",
+      "first_name": "Danielle",
+      "last_name": "DeCarlo",
+      "office_phone": "617.923.7104",
+      "org_title": "Professional Staff",
+      "department": "",
+      "colorGroup": "Architecture Designer",
+      "people_id": "4df426b4-5fbd-4673-8a38-677b1dda436e"
+    },
+    {
+      "email": "klee@sasaki.com",
+      "first_name": "Kevin",
+      "last_name": "Lee",
+      "office_phone": "617.923.7336",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "a54341d3-775d-4069-aef5-fcd75f4432db"
+    },
+    {
+      "email": "ktooke@sasaki.com",
+      "first_name": "Kate",
+      "last_name": "Tooke",
+      "office_phone": "617.923.7331",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect",
+      "people_id": "d099d2fc-c216-4915-be1c-d82ddc99414d"
+    },
+    {
+      "email": "yzhu@sasaki.com",
+      "first_name": "Yu",
+      "last_name": "Zhu",
+      "office_phone": "011.86.138.1866.1907 ext. 126",
+      "org_title": "Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "4de6922d-6352-4cd6-b06a-078ad6b26925"
+    },
+    {
+      "email": "szhu@sasaki.com",
+      "first_name": "Siqi",
+      "last_name": "Zhu",
+      "office_phone": "617.923.5315",
+      "org_title": "Associate",
+      "department": "Urban",
+      "colorGroup": "Urban Designer",
+      "people_id": "5ddb0805-1d08-4459-ac0a-5ef1a349035e"
+    },
+    {
+      "email": "jcompres@sasaki.com",
+      "first_name": "Jose",
+      "last_name": "Compres",
+      "office_phone": "617.923.7119",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Architecture Designer",
+      "people_id": "8c783f84-8d73-4874-b98b-5379db44e207"
+    },
+    {
+      "email": "atoteva@sasaki.com",
+      "first_name": "Alexandra",
+      "last_name": "Toteva",
+      "office_phone": "617.923.7243",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Planner",
+      "people_id": "4b6a9e83-f83b-4eaf-92e9-caf73becbaeb"
+    },
+    {
+      "email": "pmurray@sasaki.com",
+      "first_name": "Patrick",
+      "last_name": "Murray",
+      "office_phone": "617.923.7157",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Software Developer",
+      "people_id": "2e5243f9-f9a3-4c9f-84af-72ae9584434b"
+    },
+    {
+      "email": "nfriend@sasaki.com",
+      "first_name": "Nicole",
+      "last_name": "Friend",
+      "office_phone": "617.923.5335",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Urban Designer",
+      "people_id": "495d3a7a-b931-452b-af06-e06f0a33daef"
+    },
+    {
+      "email": "pbassett@sasaki.com",
+      "first_name": "Patrick",
+      "last_name": "Bassett",
+      "office_phone": "617.923.7153",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Chief Business Officer",
+      "people_id": "4ec3a8f1-aeeb-4649-8455-c0612e811976"
+    },
+    {
+      "email": "jhibbard@sasaki.com",
+      "first_name": "Joe",
+      "last_name": "Hibbard",
+      "office_phone": "617.923.7223",
+      "org_title": "Principal",
+      "department": "Campus",
+      "colorGroup": "Landscape Architect",
+      "people_id": "a235f79d-d9ba-43f0-b2a3-89cbfcc111b9"
+    },
+    {
+      "email": "ghavens@sasaki.com",
+      "first_name": "Greg",
+      "last_name": "Havens",
+      "office_phone": "617.923.5337",
+      "org_title": "Principal",
+      "department": "Campus",
+      "colorGroup": "Planner",
+      "people_id": "69c18ede-7b74-4725-b901-1bca713ca2b0"
+    },
+    {
+      "email": "afreedman@sasaki.com",
+      "first_name": "Andy",
+      "last_name": "Freedman",
+      "office_phone": "617.926.3300",
+      "org_title": "Intern",
+      "department": "",
+      "colorGroup": "FabLab Intern",
+      "people_id": "44907ff1-8f7d-4f77-b852-3bc883aceb0a"
+    },
+    {
+      "email": "jshi@sasaki.com",
+      "first_name": "Jingwen",
+      "last_name": "Shi",
+      "office_phone": "617.923.5311",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Interior Designer",
+      "people_id": "48e9580a-b7bd-413b-824a-eb174f4eede6"
+    },
+    {
+      "email": "mgomez@sasaki.com",
+      "first_name": "Mauricio",
+      "last_name": "Gomez",
+      "office_phone": "617.923.7314",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect/PM",
+      "people_id": "52401bf7-e246-4dc2-abe0-128fad83c61b"
+    },
+    {
+      "email": "rbelanger@sasaki.com",
+      "first_name": "Rachel",
+      "last_name": "Belanger",
+      "office_phone": "617.926.3300",
+      "org_title": "Intern",
+      "department": "",
+      "colorGroup": "Planning Intern",
+      "people_id": "e341c69d-ffa0-4f44-a3c1-9b800e9e3f4f"
+    },
+    {
+      "email": "gkeillor@sasaki.com",
+      "first_name": "Gretchen",
+      "last_name": "Keillor",
+      "office_phone": "617.923.7141",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Planner",
+      "people_id": "3bff2892-5815-4608-b73d-1ce1effbbc2b"
+    },
+    {
+      "email": "sliu@sasaki.com",
+      "first_name": "Shiyao",
+      "last_name": "Liu",
+      "office_phone": "617.923.7174",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Urban Designer",
+      "people_id": "25d618b5-6f80-460e-8a1b-46366039404e"
+    },
+    {
+      "email": "vgorgati@sasaki.com",
+      "first_name": "Vinicius",
+      "last_name": "Gorgati",
+      "office_phone": "617.923.7110",
+      "org_title": "Principal",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "446679f7-461b-498f-88b2-eb45e9a95bd7"
+    },
+    {
+      "email": "samlee@sasaki.com",
+      "first_name": "Sam",
+      "last_name": "Lee",
+      "office_phone": "617.923.5329",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Maintenance Assistant",
+      "people_id": "8c38ac3e-66b4-4296-a552-d3c541c574d3"
+    },
+    {
+      "email": "zgu@sasaki.com",
+      "first_name": "Zi",
+      "last_name": "Gu",
+      "office_phone": "617.923.7216",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "e7de64f4-f7ec-4e5b-a01d-0f4b9f336f97"
+    },
+    {
+      "email": "wzuo@sasaki.com",
+      "first_name": "Wen",
+      "last_name": "Zuo",
+      "office_phone": "null",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "c17236d1-dbdf-4a40-ad3e-7616accb50de"
+    },
+    {
+      "email": "lhunterhicks@sasaki.com",
+      "first_name": "Lachlan",
+      "last_name": "Hunter Hicks",
+      "office_phone": "617.923.7394",
+      "org_title": "Associate",
+      "department": "Corporate",
+      "colorGroup": "Design Operations Officer",
+      "people_id": "a3de15b5-b0dc-4763-a696-79bf0f88fdc2"
+    },
+    {
+      "email": "klucic@sasaki.com",
+      "first_name": "Katia",
+      "last_name": "Lucic",
+      "office_phone": "617.923.7393",
+      "org_title": "Principal",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "cd15a5a8-3b23-4397-b6f1-daf2e112c78e"
+    },
+    {
+      "email": "jzhang@sasaki.com",
+      "first_name": "Jialing",
+      "last_name": "Zhang",
+      "office_phone": "011.86.138.1866.1907",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "3fc81344-8401-476c-8e97-f65dad93b33c"
+    },
+    {
+      "email": "slaliberte@sasaki.com",
+      "first_name": "Sarah",
+      "last_name": "Laliberte",
+      "office_phone": "617.923.7125",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Brand Content Manager",
+      "people_id": "bedf8065-bc45-4614-8944-a2d535422f6b"
+    },
+    {
+      "email": "zchrisco@sasaki.com",
+      "first_name": "Zach",
+      "last_name": "Chrisco",
+      "office_phone": "617.923.7118",
+      "org_title": "Principal",
+      "department": "Urban",
+      "colorGroup": "Civil Engineer",
+      "people_id": "6659f0b3-3f6c-4430-9ee9-f06f1e0c074b"
+    },
+    {
+      "email": "sengler@sasaki.com",
+      "first_name": "Steve",
+      "last_name": "Engler",
+      "office_phone": "617.923.7199",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Civil Engineer",
+      "people_id": "de6da3b0-8872-4ecb-aa7c-d5e718f1e959"
+    },
+    {
+      "email": "bhensold@sasaki.com",
+      "first_name": "Brie",
+      "last_name": "Hensold",
+      "office_phone": "617.923.7111",
+      "org_title": "Principal",
+      "department": "Urban",
+      "colorGroup": "Planner",
+      "people_id": "442075a6-dd28-4370-99d1-00c7dc057e7a"
+    },
+    {
+      "email": "mcheng@sasaki.com",
+      "first_name": "Marissa",
+      "last_name": "Cheng",
+      "office_phone": "617.923.7232",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Planner",
+      "people_id": "6e437ea8-a76f-46f4-b24e-72e499c472f6"
+    },
+    {
+      "email": "rherrero@sasaki.com",
+      "first_name": "Rosa",
+      "last_name": "Herrero",
+      "office_phone": "617.923.7122",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "d3f73a48-d982-4218-952d-34643792782e"
+    },
+    {
+      "email": "jdixon@sasaki.com",
+      "first_name": "Jill",
+      "last_name": "Allen Dixon",
+      "office_phone": "617.923.7268",
+      "org_title": "Associate",
+      "department": "Urban",
+      "colorGroup": "Planner",
+      "people_id": "32ef8f46-7596-4c77-80c2-7e53612f4125"
+    },
+    {
+      "email": "tmazerall@sasaki.com",
+      "first_name": "Travis",
+      "last_name": "Mazerall",
+      "office_phone": "617.923.7196",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect",
+      "people_id": "bcaef4fc-49f9-450e-8347-c785804da1c4"
+    },
+    {
+      "email": "pschlapobersky@sasaki.com",
+      "first_name": "Paul",
+      "last_name": "Schlapobersky",
+      "office_phone": "617.923.7144",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Senior Urban Designer",
+      "people_id": "587053c2-4c49-4f88-a42a-696cc991a507"
+    },
+    {
+      "email": "adonovan@sasaki.com",
+      "first_name": "Alexandra",
+      "last_name": "Donovan",
+      "office_phone": "617.926.3300",
+      "org_title": "Intern",
+      "department": "",
+      "colorGroup": "Architecture Intern",
+      "people_id": "65b65749-5575-4dd6-9e58-cef949f92d08"
+    },
+    {
+      "email": "mdonovan@sasaki.com",
+      "first_name": "Maria",
+      "last_name": "Donovan",
+      "office_phone": "617.923.7176",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "b1aedf7f-30b5-412a-aaec-a043ef834c78"
+    },
+    {
+      "email": "dmartin@sasaki.com",
+      "first_name": "David",
+      "last_name": "Martin",
+      "office_phone": "617.923.7326",
+      "org_title": "Senior Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "0c214fb1-e7e7-402f-8769-13a241e15f33"
+    },
+    {
+      "email": "jhe@sasaki.com",
+      "first_name": "Jia Qi Lisa",
+      "last_name": "He",
+      "office_phone": "617.926.3300",
+      "org_title": "Intern",
+      "department": "",
+      "colorGroup": "Interior Design Intern",
+      "people_id": "f9964460-5984-49ac-8415-521727079d92"
+    },
+    {
+      "email": "bboisclair@sasaki.com",
+      "first_name": "Benjamin",
+      "last_name": "Boisclair",
+      "office_phone": "617.923.7233",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "4987c91c-d38c-442a-9170-46ae6fd8a1bd"
+    },
+    {
+      "email": "akoumoutsos@sasaki.com",
+      "first_name": "Alex",
+      "last_name": "Koumoutsos",
+      "office_phone": "617.923.7186",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "2fe4d162-f473-4a2a-965b-ebd06184c0cf"
+    },
+    {
+      "email": "chorne@sasaki.com",
+      "first_name": "Chris",
+      "last_name": "Horne",
+      "office_phone": "617.923.7231",
+      "org_title": "Associate",
+      "department": "Urban",
+      "colorGroup": "Planner",
+      "people_id": "6797a99b-2d05-49a9-b297-ddbdf9633e94"
+    },
+    {
+      "email": "bjacobs@sasaki.com",
+      "first_name": "Ben",
+      "last_name": "Jacobs",
+      "office_phone": "617.926.3300",
+      "org_title": "Intern",
+      "department": "Corporate",
+      "colorGroup": "Marketing Intern",
+      "people_id": "c3c34fd0-a727-4440-8b6b-12231efe9a34"
+    },
+    {
+      "email": "cbarrett@sasaki.com",
+      "first_name": "Colleen",
+      "last_name": "Barrett",
+      "office_phone": "617.923.7299",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Interior Designer",
+      "people_id": "4fa01b1e-2265-467d-a303-bdd798667a00"
+    },
+    {
+      "email": "jimbaro@sasaki.com",
+      "first_name": "Jennifer",
+      "last_name": "Imbaro",
+      "office_phone": "617.923.7397",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Interior Designer",
+      "people_id": "7a58e70a-feb3-481b-a333-f5c34c986477"
+    },
+    {
+      "email": "sclarke@sasaki.com",
+      "first_name": "Seth",
+      "last_name": "Clarke",
+      "office_phone": "617.923.7267",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "df6536f4-44de-4d3b-8440-a1e227d92ced"
+    },
+    {
+      "email": "nbutt@sasaki.com",
+      "first_name": "Nathan",
+      "last_name": "Butt",
+      "office_phone": "617.923.7102",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "164e3664-290d-4983-83b5-7f568dd8594e"
+    },
+    {
+      "email": "yifuliu@sasaki.com",
+      "first_name": "Yifu",
+      "last_name": "Liu",
+      "office_phone": "617.923.5346",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "f9061f55-27cb-4e85-8b76-0ce4596e273b"
+    },
+    {
+      "email": "dpieprz@sasaki.com",
+      "first_name": "Dennis",
+      "last_name": "Pieprz",
+      "office_phone": "617.923.7289",
+      "org_title": "Principal",
+      "department": "Urban",
+      "colorGroup": "Urban Designer",
+      "people_id": "fa1949fd-a7c6-4155-bed1-922002883087"
+    },
+    {
+      "email": "elambiaso@sasaki.com",
+      "first_name": "Eric",
+      "last_name": "Lambiaso",
+      "office_phone": "617.923.7270",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Interior Architect/PM",
+      "people_id": "705b3be8-1902-4698-8272-167e5fe1caa5"
+    },
+    {
+      "email": "pdefilippi@sasaki.com",
+      "first_name": "Patti",
+      "last_name": "DeFilippi",
+      "office_phone": "617.923.7209",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Executive Assistant",
+      "people_id": "c442e50a-c085-421e-bfcd-32d416ee5ea4"
+    },
+    {
+      "email": "igiardiello@sasaki.com",
+      "first_name": "Ilaria",
+      "last_name": "Giardiello",
+      "office_phone": "617.923.7293",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "49421957-69a3-47fd-931a-87ee8dc46d7a"
+    },
+    {
+      "email": "hgajjar@sasaki.com",
+      "first_name": "Heena",
+      "last_name": "Gajjar",
+      "office_phone": "617.923.7215",
+      "org_title": "Professional Staff",
+      "department": "Urban",
+      "colorGroup": "Landscape Architecture",
+      "people_id": "5f7fdcd9-ee68-48ba-a8ff-20baaa20afc0"
+    },
+    {
+      "email": "rsinclair@sasaki.com",
+      "first_name": "Rhiannon",
+      "last_name": "Sinclair",
+      "office_phone": "617.923.7193",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Planner",
+      "people_id": "0dc15dbd-94f1-455b-9216-cbf7412a6364"
+    },
+    {
+      "email": "jcampbell@sasaki.com",
+      "first_name": "John",
+      "last_name": "Campbell",
+      "office_phone": "617.923.7288",
+      "org_title": "Associate",
+      "department": "Corporate",
+      "colorGroup": "Office Services Coordinator",
+      "people_id": "d0d45713-8a2d-48a8-9de9-0b72d5ef26da"
+    },
+    {
+      "email": "cbooth@sasaki.com",
+      "first_name": "Colin",
+      "last_name": "Booth",
+      "office_phone": "617.923.7219",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "342a66b9-5e66-4e99-9c19-ed88b2f8b1e9"
+    },
+    {
+      "email": "cthompson@sasaki.com",
+      "first_name": "Cassandra",
+      "last_name": "Thompson",
+      "office_phone": "617.923.7162",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "Marketing Coordinator",
+      "people_id": "b3c7d209-c076-44bc-8a53-14846aaa5dd0"
+    },
+    {
+      "email": "jhellendrung@sasaki.com",
+      "first_name": "Jason",
+      "last_name": "Hellendrung",
+      "office_phone": "617.923.5321",
+      "org_title": "Principal",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect",
+      "people_id": "dc44bdee-6e40-4263-baad-22a483cf9643"
+    },
+    {
+      "email": "brogers@sasaki.com",
+      "first_name": "Brendan",
+      "last_name": "Rogers",
+      "office_phone": "617.923.5334",
+      "org_title": "Associate",
+      "department": "Campus",
+      "colorGroup": "Architect",
+      "people_id": "979cf53a-e8bd-4df4-bce8-38854a39d85c"
+    },
+    {
+      "email": "ndean@sasaki.com",
+      "first_name": "Neil",
+      "last_name": "Dean",
+      "office_phone": "617.923.7173",
+      "org_title": "Senior Associate",
+      "department": "Urban",
+      "colorGroup": "Landscape Architect",
+      "people_id": "df908e81-b47e-4197-ae76-481ad693a48c"
+    },
+    {
+      "email": "jminer@sasaki.com",
+      "first_name": "James",
+      "last_name": "Miner",
+      "office_phone": "617.923.7249",
+      "org_title": "Managing Principal",
+      "department": "Urban",
+      "colorGroup": "Planner",
+      "people_id": "c702f4fe-7cf5-48c4-a24b-b452f469010e"
+    },
+    {
+      "email": "tchase@sasaki.com",
+      "first_name": "Tyler",
+      "last_name": "Chase",
+      "office_phone": "617.923.7382",
+      "org_title": "Professional Staff",
+      "department": "Corporate",
+      "colorGroup": "IS Catalyst",
+      "people_id": "e47d1312-c905-4452-9fa0-f71b50759dc2"
+    },
+    {
+      "email": "evaldecantos@sasaki.com",
+      "first_name": "Eva",
+      "last_name": "Valdecantos",
+      "office_phone": "617.923.7284",
+      "org_title": "Professional Staff",
+      "department": "Campus",
+      "colorGroup": "Architecture Designer",
+      "people_id": "31b31f9e-7b18-4980-a257-4adbb51e1434"
     }
   ]
 }

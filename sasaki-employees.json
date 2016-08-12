@@ -1,0 +1,5026 @@
+{
+  "children": [
+    {
+      "name": "Ben Kou",
+      "email": "bkou@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Springman Lee",
+      "email": "slee@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Yueying Cui",
+      "email": "ycui@sasaki.com",
+      "discipline": "planner",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Chris Hardy",
+      "email": "cahardy@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Muhan Cui",
+      "email": "mcui@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Alex Pina",
+      "email": "apina@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Katelyn Mayfield",
+      "email": "kmayfield@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Brad Prestbo",
+      "email": "bprestbo@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Ge Feng",
+      "email": "gfeng@sasaki.com",
+      "discipline": "graphics",
+      "studio": "",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Doug Larence",
+      "email": "dlarence@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Thomas Simister",
+      "email": "tsimister@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Ian Scherling",
+      "email": "ischerling@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Ethan Lay-Sleeper",
+      "email": "elaysleeper@sasaki.com",
+      "discipline": "planner",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Tianwen Zhou",
+      "email": "tzhou@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Robert Genova",
+      "email": "rgenova@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Mary Anne Ocampo",
+      "email": "mocampo@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Campus",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Susan Crowe Knight",
+      "email": "scknight@sasaki.com",
+      "discipline": "architect",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Christopher Winkler",
+      "email": "cwinkler@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Penny Snyder",
+      "email": "psnyder@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Wen Zhang",
+      "email": "wzhang@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Martin Zogran",
+      "email": "mzogran@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Urban",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Anna Scherling",
+      "email": "ascherling@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Betty Davidian-Sleiman",
+      "email": "bsleiman@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Anthony Lawson",
+      "email": "alawson@sasaki.com",
+      "discipline": "architect",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Sonja Vangjeli",
+      "email": "svangjeli@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Phillip Bruso",
+      "email": "pbruso@sasaki.com",
+      "discipline": "planner",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Einat Rosenkrantz",
+      "email": "erosenkrantz@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Urban",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Julie Jaenicke",
+      "email": "jjaenicke@sasaki.com",
+      "discipline": "interiors",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Carolyn Brown",
+      "email": "cbrown@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Carla Ceruzzi",
+      "email": "cceruzzi@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Kathleen Hunt",
+      "email": "khunt@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Yi-Ting Chou",
+      "email": "ychou@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Ryne Hawkins",
+      "email": "rhawkins@sasaki.com",
+      "discipline": "interiors",
+      "studio": "Urban",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Stephanie Izzicupo",
+      "email": "sizzicupo@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Hannah Foley",
+      "email": "hfoley@sasaki.com",
+      "discipline": "civil",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Marta Guerra",
+      "email": "mguerra@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Phyllis Zhou",
+      "email": "pzhou@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Zhiqing Yu",
+      "email": "zyu@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Lilly Vazquez",
+      "email": "lvazquez@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Nicole Kleman",
+      "email": "nkleman@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Yifaat Ayzenberg Shoshan",
+      "email": "yayzenberg@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Julian Wei",
+      "email": "jwei@sasaki.com",
+      "discipline": "planner",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Laura Marett",
+      "email": "lmarett@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Jim Moses",
+      "email": "jmoses@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Lucca Townsend",
+      "email": "ltownsend@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Lucila Rosso",
+      "email": "lrosso@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Radhika Mahan",
+      "email": "rmahan@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Xiangmei Hong",
+      "email": "xhong@sasaki.com",
+      "discipline": "planner",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Jeff Benea",
+      "email": "jbenea@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Neal Dos Santos",
+      "email": "ndossantos@sasaki.com",
+      "discipline": "architect",
+      "studio": "Intern",
+      "title": "Intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Tyler Patrick",
+      "email": "tpatrick@sasaki.com",
+      "discipline": "planner",
+      "studio": "Campus",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Romil Sheth",
+      "email": "rsheth@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Steven Peterson",
+      "email": "speterson@sasaki.com",
+      "discipline": "landscape",
+      "studio": "",
+      "title": "Intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Shu Yang",
+      "email": "syang@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Meredith McCarthy",
+      "email": "mmccarthy@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Youngjin Lee",
+      "email": "ylee@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Kara Slocum",
+      "email": "kslocum@sasaki.com",
+      "discipline": "civil",
+      "studio": "",
+      "title": "Intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Ryan Collier",
+      "email": "rcollier@sasaki.com",
+      "discipline": "graphics",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Jonathan Greer",
+      "email": "jgreer@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Cecilia Hardy",
+      "email": "chardy@sasaki.com",
+      "discipline": "interiors",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Chris Freda",
+      "email": "cfreda@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Urban",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Alex Borrás",
+      "email": "aborras@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Jessica Harrington",
+      "email": "jharrington@sasaki.com",
+      "discipline": "interiors",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Nuith Morales",
+      "email": "nmorales@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Andrew LaFosse",
+      "email": "alafosse@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Mingshan Shao",
+      "email": "mshao@sasaki.com",
+      "discipline": "graphics",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Victor Vizgaitis",
+      "email": "vvizgaitis@sasaki.com",
+      "discipline": "interiors",
+      "studio": "Urban",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Helen Wu",
+      "email": "hwu@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Pablo Savid-Buteler",
+      "email": "pdsavid@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Managing Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Alan Ward",
+      "email": "award@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Urban",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Christine Campbell",
+      "email": "ccampbell@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Theresa O'Neil",
+      "email": "toneil@sasaki.com",
+      "discipline": "planner",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Bryan Irwin",
+      "email": "birwin@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Brigitte Beltran",
+      "email": "bbeltran@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Mark Dawson",
+      "email": "mdawson@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Managing Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Fred Merrill",
+      "email": "fmerrill@sasaki.com",
+      "discipline": "planner",
+      "studio": "Urban",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Susan Amedio",
+      "email": "samedio@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Zhao Liang",
+      "email": "zliang@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Binbin Ma",
+      "email": "bma@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Fiske Crowell",
+      "email": "fcrowell@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Kyle Richard",
+      "email": "krichard@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Chris Sgarzi",
+      "email": "csgarzi@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Qiyi Li",
+      "email": "qli@sasaki.com",
+      "discipline": "landscape",
+      "studio": "",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Debbie Wallis",
+      "email": "dwallis@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Helen Oyinlola",
+      "email": "hoyinlola@sasaki.com",
+      "discipline": "architect",
+      "studio": "Corporate",
+      "title": "intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Jhanea Williams",
+      "email": "jwilliams@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Antonio Furukawa",
+      "email": "afurukawa@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Christopher Myers",
+      "email": "cmyers@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Joel Smith",
+      "email": "jsmith@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Matthew Petrie",
+      "email": "mpetrie@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Yaqi Liu",
+      "email": "yliu@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Ruben Sannen",
+      "email": "rsannen@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Andrew Leung",
+      "email": "aleung@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Stephen Kun",
+      "email": "skun@sasaki.com",
+      "discipline": "planner",
+      "studio": "Urban",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Victor Eskinazi",
+      "email": "veskinazi@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Melanie Loria",
+      "email": "mloria@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Ken Goulding",
+      "email": "kgoulding@sasaki.com",
+      "discipline": "planner",
+      "studio": "Campus",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Adde Morgan",
+      "email": "amorgan@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Van Arend",
+      "email": "varend@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Sam Pease",
+      "email": "spease@sasaki.com",
+      "discipline": "graphics",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Letitia Tormay",
+      "email": "ltormay@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Isabel Zempel",
+      "email": "izempel@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Robert Titus",
+      "email": "rtitus@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Ivelisse Otero",
+      "email": "iotero@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Brad Barnett",
+      "email": "bbarnett@sasaki.com",
+      "discipline": "planner",
+      "studio": "Urban",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Lan Ying Ip",
+      "email": "lyip@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Yu-Ang Hsiao",
+      "email": "yhsiao@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Diane Landry",
+      "email": "dlandry@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Gina Ford",
+      "email": "gford@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Ethan Shrier",
+      "email": "eshrier@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Jose Miranda",
+      "email": "jmiranda@sasaki.com",
+      "discipline": "operations",
+      "studio": "Urban",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Ming-Jen Hsueh",
+      "email": "mhsueh@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Melissa Isidor",
+      "email": "misidor@sasaki.com",
+      "discipline": "operations",
+      "studio": "Operations",
+      "title": "Intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Terri Dube",
+      "email": "tdube@sasaki.com",
+      "discipline": "graphics",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Thiyagarajan Adi Raman",
+      "email": "tadiraman@sasaki.com",
+      "discipline": "planner",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Selin Arslan",
+      "email": "sarslan@sasaki.com",
+      "discipline": "planner",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Ashley Pelletier",
+      "email": "apelletier@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Justin Finnicum",
+      "email": "jfinnicum@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Nich Steinkraus",
+      "email": "nsteinkraus@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Julia Carlton",
+      "email": "jcarlton@sasaki.com",
+      "discipline": "planner",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Ponnapa Prakkamakul",
+      "email": "pprakkamakul@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Eamonn Hutton",
+      "email": "ehutton@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Edward Calamari",
+      "email": "ecalamari@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Lin Ye",
+      "email": "lye@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Stephen Lacker",
+      "email": "sjlacker@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Gerry Gutierrez",
+      "email": "ggutierrez@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Tom Klein",
+      "email": "tklein@sasaki.com",
+      "discipline": "landscape",
+      "studio": "",
+      "title": "Intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Alex Desaulniers",
+      "email": "adesaulniers@sasaki.com",
+      "discipline": "interiors",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Lexus Clark",
+      "email": "lclark@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Catherine Barsoum",
+      "email": "cbarsoum@sasaki.com",
+      "discipline": "architect",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Christopher Kuczynski",
+      "email": "ckuczynski@sasaki.com",
+      "discipline": "architect",
+      "studio": "",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Richard Colavecchio",
+      "email": "rcolavecchio@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Margit Liander",
+      "email": "mliander@sasaki.com",
+      "discipline": "planner",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Robert Culver",
+      "email": "rculver@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Xiaoran Du",
+      "email": "xdu@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Zhicheng Daniel Xu",
+      "email": "zxu@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Ruichao Li",
+      "email": "rli@sasaki.com",
+      "discipline": "landscape",
+      "studio": "",
+      "title": "Intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Anastasia Lyons",
+      "email": "alyons@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Jerolim Mladinov",
+      "email": "jmladinov@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Matt Reese",
+      "email": "mreese@sasaki.com",
+      "discipline": "civil",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Michael Grove",
+      "email": "mgrove@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Kira Sargent",
+      "email": "ksargent@sasaki.com",
+      "discipline": "landscape",
+      "studio": "",
+      "title": "Intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Jeanette Pastrana",
+      "email": "jpastrana@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Jia Fang",
+      "email": "jfang@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Caitlyn Clauson",
+      "email": "cclauson@sasaki.com",
+      "discipline": "planner",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Sara Cohen",
+      "email": "scohen@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Rex Tseng",
+      "email": "rtseng@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Steve Walz",
+      "email": "swalz@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Aliza Leventhal",
+      "email": "aleventhal@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Jianwei Shi",
+      "email": "jishi@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "",
+      "title": "Intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Yiling Qian",
+      "email": "yqian@sasaki.com",
+      "discipline": "operations",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Shuai Hao",
+      "email": "shao@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Bill Massey",
+      "email": "bmassey@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Poshan Chang",
+      "email": "pchang@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Cassie Bosco",
+      "email": "cbosco@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Emily Parris",
+      "email": "eparris@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Vee Petchthevee",
+      "email": "vpetchthevee@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Dou Zhang",
+      "email": "dzhang@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Jane Kleinman",
+      "email": "jkleinman@sasaki.com",
+      "discipline": "planner",
+      "studio": "",
+      "title": "Temporary Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Marley Kanda",
+      "email": "mkanda@sasaki.com",
+      "discipline": "architect",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Daniel Pryor",
+      "email": "dpryor@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Charlie Hart",
+      "email": "chart@sasaki.com",
+      "discipline": "architect",
+      "studio": "",
+      "title": "Intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Lynn Hsu",
+      "email": "lhsu@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Yuting Jiang",
+      "email": "yjiang@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Sejal Agrawal",
+      "email": "sagrawal@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Mengxuan Liu",
+      "email": "mliu@sasaki.com",
+      "discipline": "landscape",
+      "studio": "",
+      "title": "Intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Trey Sasser",
+      "email": "wsasser@sasaki.com",
+      "discipline": "civil",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Bomin Kim",
+      "email": "bkim@sasaki.com",
+      "discipline": "operations",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Matt Langan",
+      "email": "mlangan@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Chanwoo Kim",
+      "email": "ckim@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Diana Fernandez",
+      "email": "dfernandez@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Kayla Bosela",
+      "email": "kbosela@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Nancy Freedman",
+      "email": "nfreedman@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Anthony Fettes",
+      "email": "afettes@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Shaun Doherty",
+      "email": "sdoherty@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Andrew Gutterman",
+      "email": "agutterman@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Sarah Dunbar",
+      "email": "sdunbar@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Sihui Ren",
+      "email": "sren@sasaki.com",
+      "discipline": "architect",
+      "studio": "Intern",
+      "title": "Intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Osazemen Ehigiator",
+      "email": "oehigiator@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Joanna Chow",
+      "email": "jchow@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Justin Fay",
+      "email": "jfay@sasaki.com",
+      "discipline": "planner",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Lan Ge",
+      "email": "lge@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Urban",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "David Appel",
+      "email": "dappel@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Ali Eaton",
+      "email": "aeaton@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Christine Dunn",
+      "email": "cdunn@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Sylvia Yu",
+      "email": "syu@sasaki.com",
+      "discipline": "interiors",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Kevin Hebard",
+      "email": "khebard@sasaki.com",
+      "discipline": "civil",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Susannah Ross",
+      "email": "sross@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "F. Philip Barash",
+      "email": "fpbarash@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Gloriana Gonzalez",
+      "email": "ggonzalez@sasaki.com",
+      "discipline": "architect",
+      "studio": "",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Hernan Schlosman",
+      "email": "hschlosman@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Steve Roscoe",
+      "email": "sroscoe@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Matthew Arielly",
+      "email": "marielly@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Tao Zhang",
+      "email": "tzhang@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Mariam Nalbandyan",
+      "email": "mnalbandyan@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Elangovan Govindan",
+      "email": "egovindan@sasaki.com",
+      "discipline": "planner",
+      "studio": "Urban",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Caroline Braga",
+      "email": "cbraga@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Campus",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Matthew Macchietto",
+      "email": "mmacchietto@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Victoria Steven",
+      "email": "vsteven@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Andy McClurg",
+      "email": "amcclurg@sasaki.com",
+      "discipline": "planner",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Mengchen Xia",
+      "email": "mxia@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Allison Austin",
+      "email": "aaustin@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Christiana Linera",
+      "email": "clinera@sasaki.com",
+      "discipline": "interiors",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Mengyao Yu",
+      "email": "myu@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Nangyeong Lee",
+      "email": "nlee@sasaki.com",
+      "discipline": "operations",
+      "studio": "Urban",
+      "title": "Intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Felipe Francisco",
+      "email": "ffrancisco@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Jay Nothoff",
+      "email": "jnothoff@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Hillary Chase",
+      "email": "hchase@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Shaelena Morley",
+      "email": "smorley@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Kathryn Boudreau",
+      "email": "kboudreau@sasaki.com",
+      "discipline": "interiors",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "John Sugrue",
+      "email": "jsugrue@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Urban",
+      "title": "senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Sophie Elias",
+      "email": "selias@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Wendy Wang",
+      "email": "wwang@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Zachary Loudin",
+      "email": "zloudin@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Philip Dugdale",
+      "email": "pdugdale@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Gina Mosca",
+      "email": "gmosca@sasaki.com",
+      "discipline": "interiors",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Dan Dwyer",
+      "email": "ddwyer@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Danielle DeCarlo",
+      "email": "ddecarlo@sasaki.com",
+      "discipline": "architect",
+      "studio": "",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Kevin Lee",
+      "email": "klee@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Kate Tooke",
+      "email": "ktooke@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Yu Zhu",
+      "email": "yzhu@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Siqi Zhu",
+      "email": "szhu@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Urban",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Jose Compres",
+      "email": "jcompres@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Alexandra Toteva",
+      "email": "atoteva@sasaki.com",
+      "discipline": "planner",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Patrick Murray",
+      "email": "pmurray@sasaki.com",
+      "discipline": "planner",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Nicole Friend",
+      "email": "nfriend@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Patrick Bassett",
+      "email": "pbassett@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Joe Hibbard",
+      "email": "jhibbard@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Campus",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Greg Havens",
+      "email": "ghavens@sasaki.com",
+      "discipline": "planner",
+      "studio": "Campus",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Andy Freedman",
+      "email": "afreedman@sasaki.com",
+      "discipline": "architect",
+      "studio": "",
+      "title": "Intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Jingwen Shi",
+      "email": "jshi@sasaki.com",
+      "discipline": "interiors",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Mauricio Gomez",
+      "email": "mgomez@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Rachel Belanger",
+      "email": "rbelanger@sasaki.com",
+      "discipline": "planner",
+      "studio": "",
+      "title": "Intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Gretchen Keillor",
+      "email": "gkeillor@sasaki.com",
+      "discipline": "planner",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Shiyao Liu",
+      "email": "sliu@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Vinicius Gorgati",
+      "email": "vgorgati@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Sam Lee",
+      "email": "samlee@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Zi Gu",
+      "email": "zgu@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Wen Zuo",
+      "email": "wzuo@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Lachlan Hunter Hicks",
+      "email": "lhunterhicks@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Katia Lucic",
+      "email": "klucic@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Jialing Zhang",
+      "email": "jzhang@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Sarah Laliberte",
+      "email": "slaliberte@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Zach Chrisco",
+      "email": "zchrisco@sasaki.com",
+      "discipline": "civil",
+      "studio": "Urban",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Steve Engler",
+      "email": "sengler@sasaki.com",
+      "discipline": "civil",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Brie Hensold",
+      "email": "bhensold@sasaki.com",
+      "discipline": "planner",
+      "studio": "Urban",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Marissa Cheng",
+      "email": "mcheng@sasaki.com",
+      "discipline": "planner",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Rosa Herrero",
+      "email": "rherrero@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Jill Allen Dixon",
+      "email": "jdixon@sasaki.com",
+      "discipline": "planner",
+      "studio": "Urban",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Travis Mazerall",
+      "email": "tmazerall@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Paul Schlapobersky",
+      "email": "pschlapobersky@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Alexandra Donovan",
+      "email": "adonovan@sasaki.com",
+      "discipline": "architect",
+      "studio": "",
+      "title": "Intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Maria Donovan",
+      "email": "mdonovan@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "David Martin",
+      "email": "dmartin@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Jia Qi Lisa He",
+      "email": "jhe@sasaki.com",
+      "discipline": "interiors",
+      "studio": "",
+      "title": "Intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Benjamin Boisclair",
+      "email": "bboisclair@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Alex Koumoutsos",
+      "email": "akoumoutsos@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Chris Horne",
+      "email": "chorne@sasaki.com",
+      "discipline": "planner",
+      "studio": "Urban",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Ben Jacobs",
+      "email": "bjacobs@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Intern",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Colleen Barrett",
+      "email": "cbarrett@sasaki.com",
+      "discipline": "interiors",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Jennifer Imbaro",
+      "email": "jimbaro@sasaki.com",
+      "discipline": "interiors",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Seth Clarke",
+      "email": "sclarke@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Nathan Butt",
+      "email": "nbutt@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Yifu Liu",
+      "email": "yifuliu@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Dennis Pieprz",
+      "email": "dpieprz@sasaki.com",
+      "discipline": "urban designer",
+      "studio": "Urban",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Eric Lambiaso",
+      "email": "elambiaso@sasaki.com",
+      "discipline": "interiors",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Patti DeFilippi",
+      "email": "pdefilippi@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Ilaria Giardiello",
+      "email": "igiardiello@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Heena Gajjar",
+      "email": "hgajjar@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Rhiannon Sinclair",
+      "email": "rsinclair@sasaki.com",
+      "discipline": "planner",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "John Campbell",
+      "email": "jcampbell@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Colin Booth",
+      "email": "cbooth@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Cassandra Thompson",
+      "email": "cthompson@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Jason Hellendrung",
+      "email": "jhellendrung@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Brendan Rogers",
+      "email": "brogers@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Neil Dean",
+      "email": "ndean@sasaki.com",
+      "discipline": "landscape",
+      "studio": "Urban",
+      "title": "Senior Associate",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "James Miner",
+      "email": "jminer@sasaki.com",
+      "discipline": "planner",
+      "studio": "Urban",
+      "title": "Managing Principal",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Tyler Chase",
+      "email": "tchase@sasaki.com",
+      "discipline": "operations",
+      "studio": "Corporate",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    },
+    {
+      "name": "Eva Valdecantos",
+      "email": "evaldecantos@sasaki.com",
+      "discipline": "architect",
+      "studio": "Campus",
+      "title": "Professional Staff",
+      "strategies": 0,
+      "sustainability": 0,
+      "associations": [
+        {
+          "water": 0,
+          "energy": 0,
+          "visualization": 0,
+          "technology": 0,
+          "analysis": 0
+        }
+      ]
+    }
+  ]
+}

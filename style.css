@@ -1,0 +1,32 @@
+body {
+    font-family: "Avenir";
+    font-size: 16px;
+
+}
+
+#center-container {
+    width: 100%;
+}
+
+#inner {
+    width: 50%;
+    margin: auto;
+}
+
+.intro, .main {
+    width:100%;
+    text-align:center;
+}
+
+svg {
+    margin-top:25px;
+    /*border: 1px solid black;*/
+}
+
+.svg-button:hover rect {
+    fill:  rgb(220,220,220);
+}
+
+.svg-button:hover text {
+    font-weight:400;
+}
